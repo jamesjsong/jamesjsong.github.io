@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Ode to a Sheltered Zoomer
+date:   2022-02-21
+categories: jekyll update
+---
+
+Daniel LaPointe
+
+Before Zuckerberg, the point at infinity, had compactified the world and mapped every thing of beauty to an equivalence class of doppelgangers; before the liminal spaces had announced their presence and inflamed your revanchist mind; before boredom and its consequences had perished entirely from the Earth; before a diffuse group of strangers had declared your mother a Karen and your father the essence of evil; before the sheer *noise* of it all had forced you to consider, at least in passing, that your upbringing could have used a bit more entropy – before all of this, you had visited, for a comfy and primal eight hours, the Animal Kingdom at Disney World. And at that park you rode a ride. What was it? A safari of sorts. You saw giraffes, and elephants, and hippos. You saw lions in graceful, elite repose. You saw everything you had been promised in those yet warmer and yet hazier days of cardboard books and unconditioned love. Your tour guide tracked down the dirty, dirty poachers and killed them, just for you. How like a king you sat in that Jeep.
+
+But can you recall, manic youth, the name of the wildlife refuge you had explored? Dig deep, child. Think. It was on a yellow sign you may have revisited, for want of stimulation, some dozens of times as you waited in that line. Do you remember? It was called “Harambe.” Yes. The “Harambe Wildlife Reserve.” Strange, isn’t it? Or perhaps not. Do you think it a coincidence the King of Gorillas shares his name with such an attraction? Of course you don’t. You know, as well as I, that it was plainly *becoming* of his rise for Harambe to elicit, subconsciously, in the minds of his mourners, such warm memories as these. So many, many a hippocampus was *tickled* in the Summer of ‘16 without even realizing it – those becausing memories squished between others still callable: your mother’s fawning smile over the fallow snow, an autumn leaf am become your impromptu bookmark.
+
+Child, I speak to you this: pray, pray to Harambe. Let him become your pious knight no matter what they say. For in him there is a love that knows no irony, or bounds. You, and your thawing peers, midst the monied, daily fears, have long yearned for a culture – and in him you will find it, diffracted, by necessity, through the Lens of the Age. So take up the holy vows, dodge the laughs if you must, and do let him breathe on your pen the gift of verse. But hush, the exam comes.
+
+![](/assets/Harambe Wildlife Reserve.jpeg)
+*Photo taken by Daniel LaPointe, January 10, 2018*

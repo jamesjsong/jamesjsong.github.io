@@ -25,8 +25,6 @@ Question: If given enough time, would you be able to free yourself from the cott
 
 ----
 
-<br/>
-
 
 Perhaps it would take you many years longer than it took Newton to solve the problem – but if you answered “yes” to the above question, then you believe in objectivity. As a corollary to this belief, you deny the centrality of personality as a driver of history. “Isaac Newton,” to you, is merely a string of syllables describing the first brain to solve a problem that was going to be solved anyway. Wind back the clocks, give civilization another run, and the base unit of force is called a “tashigi,” or a “johnson,” or a “mukele.”
 

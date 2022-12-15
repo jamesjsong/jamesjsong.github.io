@@ -22,7 +22,6 @@ Upon entering this cottage, you are told the following:
 “Your task is to formulate a single law of planetary motion from which these three laws can be mathematically derived. If you have any questions about the meaning of the above statements, we will be glad to provide you with a teacher. This teacher, however, will only be able to catch you up on the state of mathematical and scientific knowledge as it existed in the year 1665. Finally, we will see to it that you never run out of pencils or paper.”
 
 Question: If given enough time, would you be able to free yourself from the cottage by independently deducing Newton’s Law of Universal Gravitation?
-
 --------
 
 Perhaps it would take you many years longer than it took Newton to solve the problem – but if you answered “yes” to the above question, then you believe in objectivity. As a corollary to this belief, you deny the centrality of personality as a driver of history. “Isaac Newton,” to you, is merely a string of syllables describing the first brain to solve a problem that was going to be solved anyway. Wind back the clocks, give civilization another run, and the base unit of force is called a “tashigi,” or a “johnson,” or a “mukele.”

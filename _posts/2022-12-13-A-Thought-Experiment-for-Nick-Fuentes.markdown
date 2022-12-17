@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Thought Experiment for Nick Fuentes
+title:  "A Thought Experiment for Nick Fuentes"
 date:   2022-12-13
 categories: jekyll update
 ---

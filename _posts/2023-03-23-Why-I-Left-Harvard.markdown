@@ -31,6 +31,6 @@ But here's a case of why Erich Fromm might be a bad idea for a teen. On a trip a
 
 This is partly why I dropped out of Harvard when I had ten weeks left. It is the perfect institutional symbol of so much life I missed in my teens and early twenties. Of course, I don’t need to drop out to make this point to myself. Contrary to Nietzsche's opinion, making a point to others is less important than making a point to myself. I can sleep if I let others down by moving to a new country and blocking their Instagram. I cannot sleep, period, if I let myself down.
 
-There is a deeper reason I left, maybe a boring psychological one, which reading Alfred Adler might make clear. This is beyond my comprehension, but maybe it was God's calling.
+There is a deeper reason I left, maybe a boring psychological one, which reading Alfred Adler might make clear. And this is beyond my comprehension, but maybe it was God's calling.
 
 

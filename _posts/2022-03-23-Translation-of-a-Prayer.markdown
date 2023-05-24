@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  Prayer on 3.13.22
+title:  Translation of a Prayer
 date:   2022-03-23
 categories: jekyll update
 ---
 
 James Song
 
-**Notes**
+Below is a translation of [my dad's prayer](https://youtu.be/7-5lxR83Kdg?t=4007), which he gave after his March 13 sermon on John 2:1-12, on Jesus turning water into wine. 
 
-Below is a translation of my [dad's prayer](https://youtu.be/7-5lxR83Kdg?t=4007), which he gave after his March 13 sermon on John 2:1-12, on Jesus turning water into wine. 
-
-Most Korean prayers I've heard--and I have heard  thousands--are elevated and drawn out. This second feature makes translating Korean prayers tricky. The string of verbs of a Korean sentence comes at the end, while off-the-cuff multiple elaborations of a point crowd the middles of sentences. One would never *write* a prayer in this way. Spoken, it can make sense. At least the preacher said so. 
+Most Korean prayers I've heard--and I have heard  thousands--are elevated and drawn out. So translating Korean prayers is tricky. One would never *write* a prayer in this way. Spoken, it can make sense, according to my dad. 
 
 -
 

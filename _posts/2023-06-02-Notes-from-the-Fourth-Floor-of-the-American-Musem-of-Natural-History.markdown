@@ -7,4 +7,4 @@ categories: jekyll update
 
 Daniel LaPointe
 
-[Notes from the Fourth Floor of the American Museum of Natural History.](/assets/dan_notes.pdf)
+[Notes from the fourth floor of the American Museum of Natural History.](/assets/dan_notes.pdf)

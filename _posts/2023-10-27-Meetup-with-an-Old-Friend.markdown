@@ -11,6 +11,7 @@ As regards artistic expression, there are two types of people: producers and con
 
 ---
 
+
 Z: So, Dan, have you finished reading The Brothers Karamazov?
 
 D: You know, I recently learned it’s pronounced “ker-AM-uh-zov,” not “CARE-uh-MOTZ-ov.” Jordan Peterson says “ker-AM-uh-zov.”
@@ -71,24 +72,25 @@ This discussion, and our ensuing search for the boundary between common knowledg
 
 ---
 
+
 Notes:
 
 [^1]: I suppose we’ve given up on appealing to the masses at this point. Anyhow, Justin Trout is a man who, per numerous friend group anecdotes, has a deep-seated, primal desire to intake food. It was Aristotle who explained gravity by saying that a stone “wants” to fall. Similarly, a Chicago deep dish pizza “wants” to end up in Justin Trout’s stomach.
 
-[^2]: From there it was onto, you guessed it, Infinite Jest.a
+[^2]: From there it was onto, you guessed it, Infinite Jest.[^a]
 
-&nbsp;&nbsp;&nbsp;&nbsp; (a) I had to tell Zach to stop after he had mentioned finishing both The Pale King and The Broom of the System. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham,i running into a wall, however, upon learning that Zach had never seen Inside.
+&nbsp;&nbsp;&nbsp;&nbsp; [^a]: I had to tell Zach to stop after he had mentioned finishing both The Pale King and The Broom of the System. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham,[^i] running into a wall, however, upon learning that Zach had never seen Inside.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class which David Foster Wallace and entertainer Bo Burnham belong to has the following identifying characteristics. These are both white men who:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [^i]: Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class which David Foster Wallace and entertainer Bo Burnham belong to has the following identifying characteristics. These are both white men who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Rose “to the top of the pack” and acquired near immunity from the critics on account of their sheer talent
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Possess a startlingly crisp working memory and a near encyclopedic knowledge of the world which is effortlessly deployed in their work
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Possess a mastery of ironic modes of expression
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Frequently attempt to break through these ironic modes with moments of sincerity, but often have difficulty doing so
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Struggle with extremely poor mental health
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Embraced “the Jesus look” by their 30’s
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Rose “to the top of the pack” and acquired near immunity from the critics on account of their sheer talent
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Possess a startlingly crisp working memory and a near encyclopedic knowledge of the world which is effortlessly deployed in their work
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Possess a mastery of ironic modes of expression
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Frequently attempt to break through these ironic modes with moments of sincerity, but often have difficulty doing so
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Struggle with extremely poor mental health
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Embraced “the Jesus look” by their 30’s
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The meme-savvy YouTuber Greg Guevara (https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * The meme-savvy YouTuber Greg Guevara (https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class.
 
 [^3]: The genealogy of this idea is perhaps even more interesting. In the fall of 2017, I worked at an information center for hikers in the Adirondacks. My manager thought the popular challenge to hike all 46 of the Adirondack’s high peaks was a tad silly.
 

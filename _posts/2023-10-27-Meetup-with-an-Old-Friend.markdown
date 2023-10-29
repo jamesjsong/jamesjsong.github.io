@@ -89,15 +89,15 @@ Notes:
 
 + *Possesses* a startlingly crisp working memory and a near encyclopedic knowledge of the world which is effortlessly deployed in his work
 
-+*Masters* ironic modes of expression
++ *Masters* ironic modes of expression
 
-+*Rises* to the top of the pack and acquires universal acclaim by giving the critics exactly what they want, i.e., an unimpeachable taste and intellect
++ *Rises* to the top of the pack and acquires universal acclaim by giving the critics exactly what they want, i.e., an unimpeachable taste and intellect
 
-+*Attempts to transcend* these breadwinning ironic modes with moments of sincerity, but *errs* on the side of continued critical esteem, i.e., never being seen as simple
++ *Attempts to transcend* these breadwinning ironic modes with moments of sincerity, but *errs* on the side of continued critical esteem, i.e., never being seen as simple
 
-+*Struggles* with poor mental health as a result of this shuffle
++ *Struggles* with poor mental health as a result of this shuffle
 
-+*Embraces* a martyr complex and a Christ-like appearance by age 30
++ *Embraces* a martyr complex and a Christ-like appearance by age 30
 
 The meme-savvy YouTuber Greg Guevara (https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class.
 

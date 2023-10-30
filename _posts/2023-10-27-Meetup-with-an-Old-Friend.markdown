@@ -83,7 +83,7 @@ Notes:
 
 (2) From there it was onto, you guessed it, *Infinite Jest.*<sup>a</sup>
 
-(a) I had to tell Zach to stop after he had mentioned finishing both The Pale King and The Broom of the System. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham,<sup>i</sup> running into a wall, however, upon learning that Zach had never seen Inside.
+(a) I had to tell Zach to stop after he had mentioned finishing both *The Pale King* and *The Broom of the System*. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham,<sup>i</sup> running into a wall, however, upon learning that Zach had never seen *Inside.*
 
 (i) Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class which David Foster Wallace and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is white man who:
 

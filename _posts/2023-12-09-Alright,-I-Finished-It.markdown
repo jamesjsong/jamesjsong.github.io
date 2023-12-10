@@ -13,7 +13,7 @@ Zach’s aforementioned nagging having gotten to me, I took it upon myself to fi
 
 &nbsp;
 
-Possible plot points of the sequel to The *Brothers Karamazov*
+Possible plot points of the sequel to *The Brothers Karamazov*
 
 * Miusov is too well-developed and important a character to only get one scene in the saga. He plays an important role in the sequel as a mentor to Ivan in Paris. With Miusov in the sequel, we get a good-faith defense of the Western, liberal values that were so hastily caricatured in the first book.
 * Ivan recovers from his brain fever, Katerina “gets her shit together” and stops fussing over Dmitri, and the two of them leave Russia for Paris (with Miusov being their “in” to the city). This is partly because their local reputations were wrecked at the trial, and partly because they have grown bored with the simplicity of Russian towns. Recall Ivan’s desire to “live it up until 30” and then “dash his cup to the ground.” This is the book where he does that.

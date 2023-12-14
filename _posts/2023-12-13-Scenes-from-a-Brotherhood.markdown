@@ -9,6 +9,7 @@ categories: jekyll update
 James Song
 
 There we were, in the red-light district. It was early afternoon, and the streets were packed with big and sweaty, pre-pandemic, Europe-touring summer crowds. People of all sort were there—families with children, older people perhaps reliving their youth vicariously, groups of consciously masculine young men.
+
 Dozens of little rooms lined the blocks with glass doors and neon lights. Behind each door stood sex workers in solid-colored two-piece underwear, smiling and waving. A little crowd had formed, watching one particular lady behind a big glass wall on the second floor of a building, bending down with her behind toward the mesmerized onlookers.
 
 Jon and I walked at a brisk pace. We didn’t talk about sex. We were taught not to have any until marriage, which I think is a good idea. That way, we might even end up with four boys, like our dad did. “Be fruitful and multiply,”[^1] the first words by God to Adam and Eve. Our dad took that seriously, as he does the rest of the Bible and taught us to. The “be fruitful and multiply” idea involves, or evolved to include, the taboo on sex outside of marriage, sex, for instance, with a sex worker. We were, or at least I was, uncomfortably surrounded by *that.* But Jon seemed at ease weaving through the crowds.
@@ -162,7 +163,7 @@ We thought it was Lance when he declared he would pursue music instead of follow
 
 Larry, on the other hand, was never a contender to be the prodigal son. He knows how to spend—his recent five-hundred-dollar projector being the most recent treat—but lives well below his means as an aspiring educator. 
 
-My adult life will begin in earnest—“forgetting what is behind and straining toward what is ahead”[^3]—after this paper. But my days of being the prodigal son, of leaving home for a faraway land for my own ends, of searching for worth and meaning outside the house of the Father, are, I hope, behind me.
+My adult life will now begin in earnest—“*forgetting what is behind and straining toward what is ahead*”[^3]. But my days of being the prodigal son, of leaving home for a faraway land for my own ends, of searching for worth and meaning outside the house of the Father, are, I hope, behind me.
 
 That leaves Jon.
 

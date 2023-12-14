@@ -20,4 +20,4 @@ Written by Daniel LaPointe.
 
 [A Discourse on Atheism](https://www.stim.blog/discourse/)
 
-[Random Walk](https://www.stim.blog/random/)
+[Random Walks](https://www.stim.blog/random/)

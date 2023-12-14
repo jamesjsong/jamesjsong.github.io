@@ -4,6 +4,8 @@ title: Daniel
 permalink: /daniel/
 ---
 
+Written by Daniel LaPointe.
+
 [Alright, I Finished It](https://www.stim.blog/finished/)
 
 [Meetup with an Old Friend](https://www.stim.blog/meetup/)

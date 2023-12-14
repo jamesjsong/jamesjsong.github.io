@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Ode to a Sheltered Zoomer
+permalink: /ode/
 date:   2022-02-21
 categories: jekyll update
 ---

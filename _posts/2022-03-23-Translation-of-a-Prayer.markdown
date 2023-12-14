@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Translation of a Prayer
+permalink: /prayer/
 date:   2022-03-23
 categories: jekyll update
 ---

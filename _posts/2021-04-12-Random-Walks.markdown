@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Random Walks
+permalink: /random/
 date:   2021-04-12
 categories: jekyll update
 ---

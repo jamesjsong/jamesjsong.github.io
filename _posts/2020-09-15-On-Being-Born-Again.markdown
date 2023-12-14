@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On Being Born Again"
+permalink: /born/
 date:   2020-9-15
 categories: jekyll update
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Highest Good"
+permalink: /highest/
 date:   2021-04-26
 categories: jekyll update
 ---

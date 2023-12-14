@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "An Odyssey in Quotes"
+permalink: /odyssey/
 date:   2022-06-29
 categories: jekyll update
 ---

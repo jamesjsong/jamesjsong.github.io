@@ -8,7 +8,7 @@ categories: jekyll update
 
 Daniel LaPointe
 
-Zach’s [aforementioned nagging](https://www.stim.blog/jekyll/update/2023/10/27/Meetup-with-an-Old-Friend.html) having gotten to me, I took it upon myself to finally finish *The Brothers Karamazov*. It is well known that Dostoyevsky intended for this novel to be the first of a longer saga. The following are my thoughts as to what could happen in the second book of a trilogy.
+Zach’s [aforementioned nagging](https://www.stim.blog/meetup/) having gotten to me, I took it upon myself to finally finish *The Brothers Karamazov*. It is well known that Dostoyevsky intended for this novel to be the first of a longer saga. The following are my thoughts as to what could happen in the second book of a trilogy.
 
 
 ---

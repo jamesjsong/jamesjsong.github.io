@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Englynion
+permalink: /englynion/
 date:   2021-04-26
 categories: jekyll update
 ---

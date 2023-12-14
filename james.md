@@ -6,10 +6,10 @@ permalink: /jameswritings/
 
 Here are my writings.
 
-[On Romans 5:8](https://www.stim.blog/jekyll/update/2023/06/18/On-Romans-5-&-58;-8.html)
+[On Romans 5:8](https://www.stim.blog/romans/)
 
-[Why I left Harvard](https://www.stim.blog/jekyll/update/2023/03/23/Why-I-Left-Harvard.html)
+[Why I left Harvard](https://www.stim.blog/harvard/)
 
-[Translation of a Prayer](https://www.stim.blog/jekyll/update/2022/03/23/Translation-of-a-Prayer.html)
+[Translation of a Prayer](https://www.stim.blog/prayer/)
 
-[The Highest Good](https://www.stim.blog/jekyll/update/2021/04/26/The-Highest-Good.html)
+[The Highest Good](https://www.stim.blog/highest/)

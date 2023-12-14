@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Meetup with an Old Friend"
+permalink: /meetup/
 date:   2023-10-27
 categories: jekyll update
 ---

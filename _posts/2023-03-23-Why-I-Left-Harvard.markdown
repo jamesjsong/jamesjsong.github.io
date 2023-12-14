@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why I Left Harvard"
+permalink: /harvard/
 date:   2023-03-23
 categories: jekyll update
 ---

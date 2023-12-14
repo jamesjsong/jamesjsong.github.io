@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Memoirs by Chat GPT"
+permalink: /memoirs/
 date:   2023-09-07
 categories: jekyll update
 ---

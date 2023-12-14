@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  On Creation and Destruction
+permalink: /creation/
 date:   2021-12-24
 categories: jekyll update
 ---

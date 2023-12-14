@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  A Study of The Little Prince
+permalink: /study/
 date:   2020-10-23
 categories: jekyll update
 ---

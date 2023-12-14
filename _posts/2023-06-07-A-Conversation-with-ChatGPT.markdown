@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Conversation with ChatGPT"
+permalink: /conversation/
 date:   2023-06-07
 categories: jekyll update
 ---

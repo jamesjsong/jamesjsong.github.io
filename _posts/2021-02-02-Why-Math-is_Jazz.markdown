@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Why Math is Jazz
+permalink: /math/
 date:   2021-02-02
 categories: jekyll update
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On Romans 5:8"
+permalink: /romans/
 date:   2023-06-18
 categories: jekyll update
 ---

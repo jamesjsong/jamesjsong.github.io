@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  A Discourse on Atheism
+permalink: /discourse/
 date:   2021-12-09
 categories: jekyll update
 ---

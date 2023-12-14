@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  A Translation of Y Gododdin
+permalink: /translation/
 date:   2021-01-30
 categories: jekyll update
 ---

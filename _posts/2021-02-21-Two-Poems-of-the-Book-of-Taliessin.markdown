@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Two Poems of the Book of Taliessin
+permalink: /taliessin/
 date:   2021-02-21
 categories: jekyll update
 ---

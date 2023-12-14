@@ -28,9 +28,7 @@ I was born on a humid day in August of 1997 in a world still transforming from a
 
 **James J. Song**
 
-I'm a fourth year at Harvard studying English. I hope this blog is somehow useful or interesting or novel. For other useful, interesting, or novel writing, you can read Paul Graham, Annie Dillard, Montaigne, David Foster Wallace, or any other of the great essayists of the past and the present. 
-
-
+Finally. I graduated. This is an experimental blog, which I started as a result of the pandemic. Let's do it.
 
 
 

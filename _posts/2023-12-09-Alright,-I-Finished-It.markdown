@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Alright, I Finished It"
+permalink: /finished/
 date:   2023-12-09
 categories: jekyll update
-permalink: /finished/
 ---
 
 Daniel LaPointe

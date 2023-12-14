@@ -1,7 +1,7 @@
 ---
 layout: page
-title: James Writings
-permalink: /jameswritings/
+title: James
+permalink: /james/
 ---
 
 Here are my writings.

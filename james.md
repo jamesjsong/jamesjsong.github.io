@@ -4,7 +4,7 @@ title: James
 permalink: /james/
 ---
 
-Here are my writings.
+Written by James Song.
 
 [On Romans 5:8](https://www.stim.blog/romans/)
 

@@ -39,17 +39,17 @@ In high school, he was the popular football player and track-and-field regional 
 
 To his credit, though, Jon knew how to navigate the world. Confidence oozed out his handsome high cheekbones, strong jaw, a sharp chin, big dark eyes with sparks of enthusiasm, angled brows, and the natural double eye-lids that Koreans find desirable. He rock-climbed and ran a couple of half marathons. He was beefy before his arm injuries left him with only running as his hobby. His thighs, I admit, are an awesome sight to behold. 
 <center>&#42;</center>
-Our parents got busy after marriage. Lance came first. A year under him is Jon. Younger than Jon by two enormous years is me. After me, my parents hoped to get a girl and prepared a name for the baby that would be my little sister. But out, two years later, came, at the turn of the century, Larry.
+Our parents got busy after marriage. Lance came first. A year under him is Jon. Younger than Jon by two enormous years is me. After me, my parents hoped to get a girl and prepared a name for the baby that would be my little sister. But out, two years later, came, at the turn of the century, Tim.
 
-Four boys and a vasectomy. He had done his part to “be fruitful and multiply,” to “fill the earth and subdue it.”[^2] He is, after all, a Korean minister, the generation of Korean ministers that came of age in the hard eighties and have that Korean fire—*han*, it is called—in them. In my generation, I think, *han* is more of a smolder.
+Four boys and a vasectomy. Dad had done his part to “be fruitful and multiply,” to “fill the earth and subdue it.”[^2] He is, after all, a Korean minister, the generation of Korean ministers that came of age in the hard eighties and have that Korean fire—*han*, it is called—in them. In my generation, I think, *han* is more of a smolder.
 
-His dad, my grandpa, lived in a central province south of Seoul and worked in an American army base as a gym supervisor. I can count on one hand the number of times I talked to him, like the time I asked him how much money he had in his five-hundred-won coin collection in a green glass bottle which he gave me, and I proudly shared with my brothers. Or the time when, at five years old, I told him I walked six kilometers and he said that that was a lot for a little boy. I remember waiting for him, because of the hierarchy of Korean table-manners: the kids had to wait until the elders picked up their chopsticks. We always waited for grandpa to pick up his chopsticks. 
+Dad's dad, my grandpa, lived in a central province south of Seoul and worked in an American army base as a gym supervisor. I can count on one hand the number of times I talked to him, like the time I asked him how much money he had in his five-hundred-won coin collection in a green glass bottle which he gave me, and I proudly shared with my brothers. Or the time when, at five years old, I told him I walked six kilometers and he said that that was a lot for a little boy. I remember waiting for him, because of the hierarchy of Korean table-manners: the kids had to wait until the elders picked up their chopsticks. We always waited for grandpa to pick up his chopsticks. 
 
 And we knew he smoked a lot and had only recently quit. But it was too late. 
 
 One day, back in Seoul, when my brothers and I were in our blankets on the heated stone floor for the night, our dad came in, sat down, and didn’t, as usual, pray for us and sing—“*the Lord takes care of me, and I am the Lord’s precious lamb*”—till we fell asleep. Instead he sat down and said in his deep, measured voice, “grandpa died peacefully and he’s in heaven now.” And he went outside. 
 
-No one spoke. We didn’t know how to talk about these things. I was only six at the time. I didn’t know that life was short and that it ends.
+No one spoke. We didn’t know how to talk about these things. I was six at the time. I didn’t know that life was short and that it ends.
 
 In the dark, I let out a few tears—what those tears meant I didn’t know. I only knew to hide them, but Jon somehow saw them.
 
@@ -57,7 +57,7 @@ In the dark, I let out a few tears—what those tears meant I didn’t know. I o
 
 You couldn’t be vulnerable around Jon. You had to be tough. You had to wipe your tears and go to sleep. 
 <center>&#42;</center>
-That summer in Europe was the first time we hung out together, just us two. In high school, he spent more time with his ex’s dog than with me. Before that, I played with Larry and neighborhood kids around our age, while Jon and Lance were off with the older kids. 
+That summer in Europe was the first time we hung out together, just us two. In high school, he spent more time with his ex’s dog than with me. Before that, I played with Tim and neighborhood kids around our age, while Jon and Lance were off with the older kids. 
 
 We linked up after our summer study abroad programs in Berlin and country-hopped and ended up in Amsterdam. He found one of Amsterdam’s “coffeeshops” and we went. It was like a cigar parlor—dark, smoky, consciously masculine—but with weed and without the attractive forty-something-year-old blond female servers calling you “honey.” We pushed our way through the dank crowd to the front where a guy with tattoo sleeves leaned on the bar with both hands. Jon yelled at my face. The music and the din of the crowd covered his voice. “*I can’t hear you!*” I yelled back. “*You wanna do edibles?*” I wanted to get out of there. He picked out a joint and a brownie wrapped in plastic.
 
@@ -96,6 +96,7 @@ There was the time we went rock climbing and I could climber harder routes. “Y
 There was the time during the pandemic when I beat him at the video-game *StarCraft*. But I may have beat him too hard, because he quit playing after that match.
 
 And when I took time off and worked in a professional kitchen, he was impressed with my skills and knowledge as a cook. We still go to Number 9 Park together, where the chef sends us snacks and Jon lights up the bar with his easy conversations with strangers. He loves talk to everybody. Once, at the bar, we were talking to a married couple in their late thirties. They were there for the wife’s birthday. He wanted to leave after the meal, but she, with her body turned towards him, could not get enough of “young and sarcastic” Jon.
+
 He, I felt, got to see my way through the world. And I finally got to know him. 
 
 Every Uber we take, Jon chats up the driver about whatever is going on in the driver’s life. Every jog we went on together, back when I could keep up with him, he would smile big and wave at people passing by, which I found unusual to the point of being weird. 
@@ -108,7 +109,7 @@ A few years ago, my maternal grandpa’s *han* was let loose. During a fiery tir
 
 “Where,” Lance would ask, “does he get his confidence?”
 
-To Larry, Lance and I are mere clowns. Lance and I are the ones that pay attention to Larry’s brutally practical, clear-eyed life advice. But Jon gets his respect.
+To Tim, Lance and I are mere clowns. Lance and I are the ones that pay attention to Tim’s brutally practical, clear-eyed life advice. But Jon gets his respect.
 <center>&#42;</center>
 Jon graduated and got a job in New York City. I was in and out of school and found myself in Cambodia. “Don’t get married in Cambodia,” Jon had said. “Don’t be stupid.” 
 
@@ -137,6 +138,7 @@ I ran out of words. I was breathing heavily, heart torn from guilt, but I tried 
 Ellen and Jon went out for a few weeks in high school. Growing up, the rest of the brothers would tease you nonstop for dating girls. Sometimes, mom and dad joined in, too. I guess we were brutal with Jon and Ellen. That was our culture, maybe a Korean thing. Being yourself had a cost. 
 
 “I didn’t really like her, but we were together. Anyway, you remember BurgerBros? We were getting fries at BurgerBros and I told her we had to break up. She asked me why, and I said I couldn’t tell her.
+
 “I broke up with her because I got so much shit from you guys. It wasn’t worth it. But I wasn’t going to tell her that.
 
 “Then dad came to pick me up. I got in the car—you guys were there—I said I broke up with Ellen, and everyone cheered.”
@@ -161,15 +163,17 @@ In the parable of the prodigal son, the more worldly of a man’s two sons deman
 
 We thought it was Lance when he declared he would pursue music instead of following mom’s plan for him of becoming a doctor. But it surprised everyone when it turned out that the brother who calls himself “just a clown!” is very likable and very hard-working—though in true L.A. fashion he is careful to hide how hard he works—and very savvy in navigating the music scene. 
 
-Larry, on the other hand, was never a contender to be the prodigal son. He knows how to spend—his recent five-hundred-dollar projector being the most recent treat—but lives well below his means as an aspiring educator. 
+Tim, on the other hand, was never a contender to be the prodigal son. He knows how to spend—his recent five-hundred-dollar projector being the most recent treat—but lives well below his means as an aspiring educator. 
 
 My adult life will now begin in earnest—“*forgetting what is behind and straining toward what is ahead*”[^3]. But my days of being the prodigal son, of leaving home for a faraway land for my own ends, of searching for worth and meaning outside the house of the Father, are, I hope, behind me.
 
 That leaves Jon.
 
-Jon, the brother who seemed so certain and so confident, is pushing thirty and is so unsure of himself. 
+Jon, the brother who seemed so certain and so confident, who is pushing thirty and who is so unsure of himself. 
 
-In the parable, the Father lets the son go and the son squanders everything. Still, the Father looks out onto the fields for any sign of the son who left Him, His eyes blind from squinting every hour, His voice hoarse from continually calling out His son’s name. The son returns to Him, and there is a joyful celebration, for the lost is found, the dead come back to life. So we need only let our words be few, listen to His voice, and sing, “*He will my shield and portion be as long as life endures.*”[^4]
+In the parable, the Father lets the son go and the son squanders everything. Still, the Father looks out onto the fields for any sign of the son who left Him, His eyes blind from squinting every hour, His voice hoarse from continually calling out His son’s name. The son returns to Him, and there is a joyful celebration, for the lost is found, the dead come back to life. 
+
+We need only let our words be few, listen to His voice, and sing, “*He will my shield and portion be as long as life endures.*”[^4]
  
 
 -

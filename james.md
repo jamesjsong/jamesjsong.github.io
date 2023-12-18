@@ -6,6 +6,8 @@ permalink: /james/
 
 Written by James Song.
 
+[Phnom Penh and the Cross: Part I](https://www.stim.blog/pp1/)
+
 [Scenes from a Brotherhood](https://www.stim.blog/brotherhood/)
 
 [On Romans 5:8](https://www.stim.blog/romans/)

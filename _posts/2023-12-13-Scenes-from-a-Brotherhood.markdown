@@ -74,7 +74,7 @@ Then we went to bed.
 <center>&#42;</center>
 In sixth grade, I tried to emulate Jon, his gait and his style. He was already a cool eighth grader with always a flock of friends. 
 
-I used to sneak into his closet and wear his checkered button-up and his big blue Nikes, laces untied, with which he would drag his heels as he swaggered slowly with his gang. He even sagged his skinny jeans just the cool amount with a thick red belt. All day I would drag the Nikes, sag my pants apishly low, avoid being seen by him, and get home early so I could put back the shirt and the shoes. He had a Mohawk phase where he gelled the top of his long hair up into stiff spikes down the center. Naturally, I had a Mohawk phase. Of course, he would notice and told me to fuck off and stop touching his shit. Including the Moco de Gorilla Snot Gel. 
+I used to sneak into his closet and wear his checkered button-up and his big blue Nikes, laces untied, with which he would drag his heels as he swaggered slowly with his gang. He even sagged his skinny jeans just the cool amount with a thick red belt. All day I would drag the Nikes, sag my pants apishly low, avoid being seen by him, and get home early so I could put back the shirt and the shoes. He had a Mohawk phase where he gelled the top of his long hair up into stiff spikes down the center. Naturally, I had a Mohawk phase. Of course, he would notice and told me to get lost off and stop touching his things. Including the Moco de Gorilla Snot Gel. 
 
 I thought he hated me. He was always trying to get Lance’s attention, but never stooped to talk to me. 
 
@@ -139,7 +139,7 @@ Ellen and Jon went out for a few weeks in high school. Growing up, the rest of t
 
 “I didn’t really like her, but we were together. Anyway, you remember BurgerBros? We were getting fries at BurgerBros and I told her we had to break up. She asked me why, and I said I couldn’t tell her.
 
-“I broke up with her because I got so much shit from you guys. It wasn’t worth it. But I wasn’t going to tell her that.
+“I broke up with her because I got so much crap from you guys. It wasn’t worth it. But I wasn’t going to tell her that.
 
 “Then dad came to pick me up. I got in the car—you guys were there—I said I broke up with Ellen, and everyone cheered.”
 

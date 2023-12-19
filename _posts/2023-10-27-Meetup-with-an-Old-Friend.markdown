@@ -8,7 +8,7 @@ categories: jekyll update
 
 Daniel LaPointe
 
-As regards artistic expression, there are two types of people: producers and consumers. Zach is very, very much a consumer of books – sort of like how Justin Trout is very, very much a consumer of pizza.<sup><a href="#note1">1</a></sup> When a producer such as myself comes into contact with such a being, there’s apt to be a bit of awkwardness.
+As regards artistic expression, there are two types of people: producers and consumers. Zach is very, very much a consumer of books – sort of like how Justin Trout is very, very much a consumer of pizza.<sup id="ref1"><a href="#note1">1</a></sup> When a producer such as myself comes into contact with such a being, there’s apt to be a bit of awkwardness.
 
 ---
 
@@ -80,7 +80,7 @@ This discussion, and our ensuing search for the boundary between common knowledg
 
 Notes:
 
-<p id="note1">(1) I suppose we’ve given up on appealing to the masses at this point. Anyhow, Justin Trout is a man who, per numerous friend group anecdotes, has a deep-seated, primal desire to intake food. It was Aristotle who explained gravity by saying that a stone “wants” to fall. Similarly, a Chicago deep dish pizza “wants” to end up in Justin Trout’s stomach.</p> 
+<p id="note1">1. I suppose we’ve given up on appealing to the masses at this point. Anyhow, Justin Trout is a man who, per numerous friend group anecdotes, has a deep-seated, primal desire to intake food. It was Aristotle who explained gravity by saying that a stone “wants” to fall. Similarly, a Chicago deep dish pizza “wants” to end up in Justin Trout’s stomach.<a href="#ref1">↩</a></p> 
 
 (2) From there it was onto, you guessed it, *Infinite Jest.*<sup>a</sup>
 

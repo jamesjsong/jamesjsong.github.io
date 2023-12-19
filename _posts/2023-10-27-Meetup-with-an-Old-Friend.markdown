@@ -84,7 +84,7 @@ Notes:
 
 <p id="note2">2. From there it was onto, you guessed it, <i>Infinite Jest</i><sup id="reff1"><a href="#notee1">a</a></sup>. <a href="#ref2">↩</a></p> 
 
-<p id="notee1">a. I had to tell Zach to stop after he had mentioned finishing both *The Pale King* and *The Broom of the System*. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham<sup id="refff1"><a href="#noteee1">i</a></sup>, running into a wall, however, upon learning that Zach had never seen <i>Inside.</i> <a href="#reff1">↩</a></p> 
+<p id="notee1">a. I had to tell Zach to stop after he had mentioned finishing both <i>The Pale King</i> and <i>The Broom of the System</i>. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham<sup id="refff1"><a href="#noteee1">i</a></sup>, running into a wall, however, upon learning that Zach had never seen <i>Inside.</i> <a href="#reff1">↩</a></p> 
 
 <p id="noteee1">i. Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class ... and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is a white man who:
 
@@ -103,13 +103,13 @@ The meme-savvy YouTuber <a href="https://www.youtube.com/@jREG">Greg Guevara</a>
 
 “Why torture yourself on Allen when you can keep re-hiking Algonquin?” he figured.
 
-To counter accusations he was not a serious hiker, he would state that, while not having hiked all 46 high peaks, he *had* hiked high peaks on at least 46 separate occasions. In fact, he had completed over 100 such summits.
+To counter accusations he was not a serious hiker, he would state that, while not having hiked all 46 high peaks, he <i>had</i> hiked high peaks on at least 46 separate occasions. In fact, he had completed over 100 such summits.
 
 I would like to think that an abstracted, nonverbal “essence” of this argument was stored in my brain only to be repurposed (years later) when speaking with Zach. <a href="#ref3">↩</a></p>
 
 <p id="note4">4. This is that sharp corner where the pavement turns to brick and you have to look out for bikers. A stone’s throw from our freshman dorm Stoughton, depending on your athleticism. 42°22'32.91"N, 71° 7'4.07"W for the Google Earth enjoyers. <a href="#ref4">↩</a></p>
 
-<p id="note5">5. To be fair, I do have a rough idea of *what* happens by the end of the book, having read the summary on Wikipedia. But that’s a far cry from seeing firsthand *how* it happens. <a href="#ref5">↩</a></p>
+<p id="note5">5. To be fair, I do have a rough idea of <i>what</i> happens by the end of the book, having read the summary on Wikipedia. But that’s a far cry from seeing firsthand <i>how</i> it happens. <a href="#ref5">↩</a></p>
 
 <p id="note6">6. Or at least the version of Smerdyakov who appears in that one scene with Ivan in the kitchen. <a href="#ref6">↩</a></p>
 

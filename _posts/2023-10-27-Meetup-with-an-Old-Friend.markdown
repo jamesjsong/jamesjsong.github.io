@@ -44,7 +44,7 @@ Z: You know Dan, I didn’t like that one quite as much.
 
 &nbsp;
 
-And that was the extent of Zach’s literary analysis. Shortly afterwards he brought up *Moby Dick* as a contrast and said he found that book to be “quite good.”<sup>2</sup>
+And that was the extent of Zach’s literary analysis. Shortly afterwards he brought up *Moby Dick* as a contrast and said he found that book to be “quite good.”<sup id="ref2"><a href="#note2">1</a></sup>
 
 Granted, the above dialogue isn’t *exactly* how the interaction played out – the free association of scenes from the novel having been lifted from an earlier conversation with James – but it would have been pretty clear to onlookers which person was more poised to actually make commentary on the book. Later on, then, when the two of us were putzing aimlessly around the Square, myself being under the influence of two Insomnia cookies, I hazarded the following criticism:
 
@@ -76,17 +76,25 @@ This discussion, and our ensuing search for the boundary between common knowledg
 
 -
 
+ # just a comment here: 
+ # for in text reference,
+ # <sup id="ref1"><a href="#note1">1</a></sup>
+ # for footnote:
+ # <p id="note1">1. content here.<a href="#ref1">↩</a></p> 
+ # ref/note --> reff/notee --> refff/noteee
+
+
 &nbsp;
 
 Notes:
 
 <p id="note1">1. I suppose we’ve given up on appealing to the masses at this point. Anyhow, Justin Trout is a man who, per numerous friend group anecdotes, has a deep-seated, primal desire to intake food. It was Aristotle who explained gravity by saying that a stone “wants” to fall. Similarly, a Chicago deep dish pizza “wants” to end up in Justin Trout’s stomach.<a href="#ref1">↩</a></p> 
 
-(2) From there it was onto, you guessed it, *Infinite Jest.*<sup>a</sup>
+<p id="note2">2. From there it was onto, you guessed it, *Infinite Jest*.<sup id="reff1"><a href="#notee1">i</a></sup><a href="#ref2">↩</a></p> 
 
-(a) I had to tell Zach to stop after he had mentioned finishing both *The Pale King* and *The Broom of the System*. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham,<sup>i</sup> running into a wall, however, upon learning that Zach had never seen *Inside.*
+<p id="notee1">a. I had to tell Zach to stop after he had mentioned finishing both *The Pale King* and *The Broom of the System*. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham,<sup id="refff1"><a href="#noteee1">i</a></sup> running into a wall, however, upon learning that Zach had never seen *Inside.*<a href="#reff1">↩</a></p> 
 
-(i) Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class which David Foster Wallace and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is white man who:
+<p id="noteee1">i. Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class which David Foster Wallace and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is white man who:
 
 + *Possesses* a startlingly crisp working memory and a near encyclopedic knowledge of the world which is effortlessly deployed in his work
 
@@ -100,7 +108,7 @@ Notes:
 
 + *Embraces* a martyr complex and a Christ-like appearance by age 30
 
-The meme-savvy YouTuber Greg Guevara (https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class.
+The meme-savvy YouTuber Greg Guevara (https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class.<a href="#refff1">↩</a></p> 
 
 (3) The genealogy of this idea is perhaps even more interesting. In the fall of 2017, I worked at an information center for hikers in the Adirondacks. My manager thought the popular challenge to hike all 46 of the Adirondack high peaks was a tad silly.
 

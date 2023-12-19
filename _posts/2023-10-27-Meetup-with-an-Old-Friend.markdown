@@ -82,9 +82,9 @@ Notes:
 
 <p id="note1">1. I suppose we’ve given up on appealing to the masses at this point. Anyhow, Justin Trout is a man who, per numerous friend group anecdotes, has a deep-seated, primal desire to intake food. It was Aristotle who explained gravity by saying that a stone “wants” to fall. Similarly, a Chicago deep dish pizza “wants” to end up in Justin Trout’s stomach. <a href="#ref1">↩</a></p> 
 
-<p id="note2">2. From there it was onto, you guessed it, <i>Infinite Jest</i><sup id="reff1"><a href="#notee1">a</a></sup>. <a href="#ref2">↩</a></p> 
+<p id="note2">2. From there it was onto, you guessed it, <i>Infinite Jest.</i><sup id="reff1"><a href="#notee1">a</a></sup> <a href="#ref2">↩</a></p> 
 
-<p id="notee1">a. I had to tell Zach to stop after he had mentioned finishing both <i>The Pale King</i> and <i>The Broom of the System</i>. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham<sup id="refff1"><a href="#noteee1">i</a></sup>, running into a wall, however, upon learning that Zach had never seen <i>Inside.</i> <a href="#reff1">↩</a></p> 
+<p id="notee1">a. I had to tell Zach to stop after he had mentioned finishing both <i>The Pale King</i> and <i>The Broom of the System</i>. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham,<sup id="refff1"><a href="#noteee1">i</a></sup> running into a wall, however, upon learning that Zach had never seen <i>Inside.</i> <a href="#reff1">↩</a></p> 
 
 <p id="noteee1">i. Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class ... and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is a white man who:
 

@@ -88,19 +88,33 @@ Notes:
 
 <p id="noteee1">i. Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class which David Foster Wallace and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is white man who:
 
+&nbsp;
+
 + *Possesses* a startlingly crisp working memory and a near encyclopedic knowledge of the world which is effortlessly deployed in his work
+
+&nbsp;
 
 + *Masters* ironic modes of expression
 
+&nbsp;
+
 + *Rises* to the top of the pack and acquires universal acclaim by giving the critics exactly what they want, i.e., an unimpeachable taste and intellect
+
+&nbsp;
 
 + *Attempts to transcend* these breadwinning ironic modes with moments of sincerity, but *errs* on the side of continued critical esteem, i.e., never being seen as simple
 
+&nbsp;
+
 + *Struggles* with poor mental health as a result of this shuffle
+
+&nbsp;
 
 + *Embraces* a martyr complex and a Christ-like appearance by age 30
 
-The meme-savvy YouTuber Greg Guevara (https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class.<a href="#refff1">↩</a></p> 
+&nbsp;
+
+The meme-savvy YouTuber [Greg Guevara](https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class. <a href="#refff1">↩</a></p> 
 
 <p id="note3">3. The genealogy of this idea is perhaps even more interesting. In the fall of 2017, I worked at an information center for hikers in the Adirondacks. My manager thought the popular challenge to hike all 46 of the Adirondack high peaks was a tad silly.
 

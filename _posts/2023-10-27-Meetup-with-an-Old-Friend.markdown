@@ -54,17 +54,17 @@ To my surprise, Zach immediately accepted this as a valid criticism. I then said
 
 “And as regards *Moby Dick*, if you were to add up all the times I’ve gone in and reread certain passages, the total number of pages read would exceed the length of the book.”
 
-In retrospect, this is a somewhat interesting argument.<sup>3</sup> But Zach wasn’t buying it. And he was right not to. The most charitable defense of my not finishing novels takes on a different form. The argument is along the following lines:
+In retrospect, this is a somewhat interesting argument.<sup id="ref3"><a href="#note3">3</a></sup> But Zach wasn’t buying it. And he was right not to. The most charitable defense of my not finishing novels takes on a different form. The argument is along the following lines:
 
 “It’s 2023. The amount of information we have at our disposal is truly bottomless. As far as classic novels go, sensibly navigating this heap requires going in, nabbing the “big idea,” and getting out as quickly as possible.
 
 “The literary masterpiece, then, is seen as a sort of raw ore in need of refinement. The book is not so much a worthwhile thing in itself as it is a pointer to some lumpy, Platonic mass which the author has happened across and would like to alert the reader to. Some readers catch on to the lumpy mass quickly. Others need to read the whole book. Regardless, one can put the book down once the mass has been located.”
 
-I put forward this argument to Zach, in a much less coherent form, when we were rounding that bend one traverses when walking from the Science Center to the Square.<sup>4</sup> He shot it down quickly.
+I put forward this argument to Zach, in a much less coherent form, when we were rounding that bend one traverses when walking from the Science Center to the Square.<sup id="ref4"><a href="#note4">4</a></sup> He shot it down quickly.
 
 “You can’t know you’ve gotten the “vibe” of a book if you haven’t finished it yet. You literally don’t even know how it ends.”
 
-And I suppose he was right. Kind of obvious, really, when you hear it phrased so bluntly.<sup>5</sup> Perhaps that makes me a Smerdyakov, then – some egotistical, impression-hoarding degenerate getting into shooting matches with a man whose intellectual superiority he truly can’t even wrap his head around.<sup>6</sup>
+And I suppose he was right. Kind of obvious, really, when you hear it phrased so bluntly.<sup id="ref5"><a href="#note5">5</a></sup> Perhaps that makes me a Smerdyakov, then – some egotistical, impression-hoarding degenerate getting into shooting matches with a man whose intellectual superiority he truly can’t even wrap his head around.<sup id="ref6"><a href="#note6">6</a></sup>
 
 I then countered with something more consensus-oriented:
 
@@ -76,23 +76,15 @@ This discussion, and our ensuing search for the boundary between common knowledg
 
 -
 
- # just a comment here: 
- # for in text reference,
- # <sup id="ref1"><a href="#note1">1</a></sup>
- # for footnote:
- # <p id="note1">1. content here.<a href="#ref1">↩</a></p> 
- # ref/note --> reff/notee --> refff/noteee
-
-
 &nbsp;
 
 Notes:
 
-<p id="note1">1. I suppose we’ve given up on appealing to the masses at this point. Anyhow, Justin Trout is a man who, per numerous friend group anecdotes, has a deep-seated, primal desire to intake food. It was Aristotle who explained gravity by saying that a stone “wants” to fall. Similarly, a Chicago deep dish pizza “wants” to end up in Justin Trout’s stomach.<a href="#ref1">↩</a></p> 
+<p id="note1">1. I suppose we’ve given up on appealing to the masses at this point. Anyhow, Justin Trout is a man who, per numerous friend group anecdotes, has a deep-seated, primal desire to intake food. It was Aristotle who explained gravity by saying that a stone “wants” to fall. Similarly, a Chicago deep dish pizza “wants” to end up in Justin Trout’s stomach. <a href="#ref1">↩</a></p> 
 
-<p id="note2">2. From there it was onto, you guessed it, *Infinite Jest*.<sup id="reff1"><a href="#notee1">i</a></sup><a href="#ref2">↩</a></p> 
+<p id="note2">2. From there it was onto, you guessed it, <i>Infinite Jest</i><sup id="reff1"><a href="#notee1">a</a></sup>. <a href="#ref2">↩</a></p> 
 
-<p id="notee1">a. I had to tell Zach to stop after he had mentioned finishing both *The Pale King* and *The Broom of the System*. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham,<sup id="refff1"><a href="#noteee1">i</a></sup> running into a wall, however, upon learning that Zach had never seen *Inside.*<a href="#reff1">↩</a></p> 
+<p id="notee1">a. I had to tell Zach to stop after he had mentioned finishing both *The Pale King* and *The Broom of the System*. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham<sup id="refff1"><a href="#noteee1">i</a></sup>, running into a wall, however, upon learning that Zach had never seen <i>Inside.</i> <a href="#reff1">↩</a></p> 
 
 <p id="noteee1">i. Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class which David Foster Wallace and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is white man who:
 
@@ -110,17 +102,17 @@ Notes:
 
 The meme-savvy YouTuber Greg Guevara (https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class.<a href="#refff1">↩</a></p> 
 
-(3) The genealogy of this idea is perhaps even more interesting. In the fall of 2017, I worked at an information center for hikers in the Adirondacks. My manager thought the popular challenge to hike all 46 of the Adirondack high peaks was a tad silly.
+<p id="note3">3. The genealogy of this idea is perhaps even more interesting. In the fall of 2017, I worked at an information center for hikers in the Adirondacks. My manager thought the popular challenge to hike all 46 of the Adirondack high peaks was a tad silly.
 
 “Why torture yourself on Allen when you can keep re-hiking Algonquin?” he figured.
 
 To counter accusations he was not a serious hiker, he would state that, while not having hiked all 46 high peaks, he *had* hiked high peaks on at least 46 separate occasions. In fact, he had completed over 100 such summits.
 
-I would like to think that an abstracted, nonverbal “essence” of this argument was stored in my brain only to be repurposed (years later) when speaking with Zach.
+I would like to think that an abstracted, nonverbal “essence” of this argument was stored in my brain only to be repurposed (years later) when speaking with Zach. <a href="#ref3">↩</a></p>
 
-(4)  This is that sharp corner where the pavement turns to brick and you have to look out for bikers. A stone’s throw from our freshman dorm Stoughton, depending on your athleticism. 42°22'32.91"N, 71° 7'4.07"W for the Google Earth enjoyers. 
+<p id="note4">4. This is that sharp corner where the pavement turns to brick and you have to look out for bikers. A stone’s throw from our freshman dorm Stoughton, depending on your athleticism. 42°22'32.91"N, 71° 7'4.07"W for the Google Earth enjoyers. <a href="#ref4">↩</a></p>
 
-(5) To be fair, I do have a rough idea of *what* happens by the end of the book, having read the summary on Wikipedia. But that’s a far cry from seeing firsthand *how* it happens.
+<p id="note5">5. To be fair, I do have a rough idea of *what* happens by the end of the book, having read the summary on Wikipedia. But that’s a far cry from seeing firsthand *how* it happens. <a href="#ref5">↩</a></p>
 
-(6) Or at least the version of Smerdyakov who appears in that one scene with Ivan in the kitchen. 
+<p id="note6">6. Or at least the version of Smerdyakov who appears in that one scene with Ivan in the kitchen. <a href="#ref6">↩</a></p>
 

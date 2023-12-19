@@ -86,35 +86,18 @@ Notes:
 
 <p id="notee1">a. I had to tell Zach to stop after he had mentioned finishing both *The Pale King* and *The Broom of the System*. The only leg-up I had on him, apparently, was having read DFW’s “E Unibus Pluram” essay. Upon learning Zach hadn’t read the essay, I pitched it to him with a passable summary of the New Sincerity and DFW’s analysis of advertisements. I then noted a passing similarity between DFW and Bo Burnham<sup id="refff1"><a href="#noteee1">i</a></sup>, running into a wall, however, upon learning that Zach had never seen <i>Inside.</i> <a href="#reff1">↩</a></p> 
 
-<p id="noteee1">i. Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class which David Foster Wallace and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is white man who:
+<p id="noteee1">i. Since we’re talking DFW, we might as well go down another layer. The proposed equivalence class ... and entertainer Bo Burnham belong to has the following identifying characteristics. A member of this equivalence class is a white man who:
 
-&nbsp;
+<ul>
+  <li><i>Possesses</i> a startlingly crisp working memory and a near encyclopedic knowledge of the world which is effortlessly deployed in his work</li>
+  <li><i>Masters</i> ironic modes of expression</li>
+  <li><i>Rises</i> to the top of the pack and acquires universal acclaim by giving the critics exactly what they want, i.e., an unimpeachable taste and intellect</li>
+  <li><i>Attempts to transcend</i> these breadwinning ironic modes with moments of sincerity, but <i>errs</i> on the side of continued critical esteem, i.e., never being seen as simple</li>
+  <li><i>Struggles</i> with poor mental health as a result of this shuffle</li>
+  <li><i>Embraces</i> a martyr complex and a Christ-like appearance by age 30</li>
+</ul>
 
-+ *Possesses* a startlingly crisp working memory and a near encyclopedic knowledge of the world which is effortlessly deployed in his work
-
-&nbsp;
-
-+ *Masters* ironic modes of expression
-
-&nbsp;
-
-+ *Rises* to the top of the pack and acquires universal acclaim by giving the critics exactly what they want, i.e., an unimpeachable taste and intellect
-
-&nbsp;
-
-+ *Attempts to transcend* these breadwinning ironic modes with moments of sincerity, but *errs* on the side of continued critical esteem, i.e., never being seen as simple
-
-&nbsp;
-
-+ *Struggles* with poor mental health as a result of this shuffle
-
-&nbsp;
-
-+ *Embraces* a martyr complex and a Christ-like appearance by age 30
-
-&nbsp;
-
-The meme-savvy YouTuber [Greg Guevara](https://www.youtube.com/@jREG) strikes me as an up-and-coming member of this equivalence class. <a href="#refff1">↩</a></p> 
+The meme-savvy YouTuber <a href="https://www.youtube.com/@jREG">Greg Guevara</a> strikes me as an up-and-coming member of this equivalence class. <a href="#refff1">↩</a></p>
 
 <p id="note3">3. The genealogy of this idea is perhaps even more interesting. In the fall of 2017, I worked at an information center for hikers in the Adirondacks. My manager thought the popular challenge to hike all 46 of the Adirondack high peaks was a tad silly.
 

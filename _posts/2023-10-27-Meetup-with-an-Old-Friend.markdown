@@ -8,7 +8,7 @@ categories: jekyll update
 
 Daniel LaPointe
 
-As regards artistic expression, there are two types of people: producers and consumers. Zach is very, very much a consumer of books – sort of like how Justin Trout is very, very much a consumer of pizza.<sup><a href="note1">1</a></sup> When a producer such as myself comes into contact with such a being, there’s apt to be a bit of awkwardness.
+As regards artistic expression, there are two types of people: producers and consumers. Zach is very, very much a consumer of books – sort of like how Justin Trout is very, very much a consumer of pizza.<sup><a href="#note1">1</a></sup> When a producer such as myself comes into contact with such a being, there’s apt to be a bit of awkwardness.
 
 ---
 

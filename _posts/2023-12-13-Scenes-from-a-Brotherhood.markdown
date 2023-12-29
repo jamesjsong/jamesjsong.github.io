@@ -83,7 +83,7 @@ There was the time during the pandemic when I beat him at the video-game *StarCr
 
 And when I took time off and worked in a professional kitchen, he was impressed with my skills and knowledge as a cook. We still go to Number 9 Park together, where the chef sends us snacks and Jon lights up the bar with his easy conversations with strangers. He loves talk to everybody. Once, at the bar, we were talking to a married couple in their late thirties. They were there for the wife’s birthday. He wanted to leave after the meal, but she, with her body turned towards him, could not get enough of “young and sarcastic” Jon.
 
-He, I felt, got to see my way through the world. And I finally got to know him. 
+He, I felt, got to see my way through the world. And I finally got to know him.   
 
 Every Uber we take, Jon chats up the driver about whatever is going on in the driver’s life. Every jog we went on together, back when I could keep up with him, he would smile big and wave at people passing by, which I found unusual to the point of being weird. 
 

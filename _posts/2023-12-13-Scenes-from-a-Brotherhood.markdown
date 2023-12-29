@@ -12,7 +12,7 @@ There we were, in the red-light district. It was early afternoon, and the street
 
 Dozens of little rooms lined the blocks with glass doors and neon lights. Behind each door stood sex workers in solid-colored two-piece underwear, smiling and waving. A little crowd had formed, watching one particular lady behind a big glass wall on the second floor of a building, bending down with her behind toward the mesmerized onlookers.
 
-Jon and I walked at a brisk pace. We didn’t talk about sex. We were taught not to have any until marriage, which I think is a good idea. That way, we might even end up with four boys, like our dad did. “Be fruitful and multiply,”[^1] the first words by God to Adam and Eve. Our dad took that seriously, as he does the rest of the Bible and taught us to. The “be fruitful and multiply” idea involves, or evolved to include, the taboo on sex outside of marriage, sex, for instance, with a sex worker. We were, or at least I was, uncomfortably surrounded by *that.* But Jon seemed at ease weaving through the crowds.
+Jon and I walked at a brisk pace. We didn’t talk about sex. We were taught not to have any until marriage, which I think is a good idea. That way, we might even end up with four boys, like our dad did. “Be fruitful and multiply,”[^1] the first words by God to Adam and Eve. Our dad took that seriously, as he does the rest of the Bible and taught us to. The “be fruitful and multiply” idea involves, or evolved to include, the taboo on sex outside of marriage, sex, for instance, with a sex worker. We were, or at least I was, uncomfortably surrounded by *that.* Jon seemed at ease weaving through the crowds.
 
 Two older men were negotiating with a sex worker, who had one foot outside her door. “For feefty Euros, you can…” I didn’t catch what was worth feefty Euros. But her voice was beautiful.
 
@@ -33,7 +33,7 @@ The red-light district is not for brothers, let alone Korean Christian brothers.
 
 We left soon after.
 <center>&#42;</center>
-I hadn’t really hung out with Jon before. We were distant. Still, we were brothers. How could we be strangers?
+That summer in Europe was the first time we hung out together, just us two. In high school, he spent more time with his ex’s dog than with me. Before that, I played with Tim and neighborhood kids around our age, while Jon and Lance were off with the older kids. I hadn’t really hung out with Jon before. We were distant. Still, we were brothers. How could we be strangers?
 
 In high school, he was the popular football player and track-and-field regional champion. I was, to quote him, a “nerd,” for which I after all these years remind him every chance I get that Chat GPT-4 is a better writer than UCLA grads like, and in particular, himself. Harvard undergrads write better prose than GPT-4, Harvard undergrads like, and in particular, myself.
 
@@ -41,13 +41,13 @@ To his credit, though, Jon knew how to navigate the world. Confidence oozed out 
 <center>&#42;</center>
 Our parents got busy after marriage. Lance came first. A year under him is Jon. Younger than Jon by two enormous years is me. After me, my parents hoped to get a girl and prepared a name for the baby that would be my little sister. But out, two years later, came, at the turn of the century, Tim.
 
-Four boys and a vasectomy. Dad had done his part to “be fruitful and multiply,” to “fill the earth and subdue it.”[^2] He is, after all, a Korean minister, the generation of Korean ministers that came of age in the hard eighties and have that Korean fire—*han*, it is called—in them. In my generation, I think, *han* is more of a smolder.
+Four boys and a vasectomy. Dad had done his part to “be fruitful and multiply,” to “fill the earth and subdue it.”[^2] He is, after all, a Korean minister from the generation of Korean ministers that came of age in the hard eighties and have that Korean fire—*han*, it is called—in them. I wonder at his conviction. In my generation, I think, *han* is more of a smolder.
 
 Dad's dad, my grandpa, lived in a central province south of Seoul and worked in an American army base as a gym supervisor. I can count on one hand the number of times I talked to him, like the time I asked him how much money he had in his five-hundred-won coin collection in a green glass bottle which he gave me, and I proudly shared with my brothers. Or the time when, at five years old, I told him I walked six kilometers and he said that that was a lot for a little boy. I remember waiting for him, because of the hierarchy of Korean table-manners: the kids had to wait until the elders picked up their chopsticks. We always waited for grandpa to pick up his chopsticks. 
 
 And we knew he smoked a lot and had only recently quit. But it was too late. 
 
-One day, back in Seoul, when my brothers and I were in our blankets on the heated stone floor for the night, our dad came in, sat down, and didn’t, as usual, pray for us and sing—“*the Lord takes care of me, and I am the Lord’s precious lamb*”—till we fell asleep. Instead he sat down and said in his deep, measured voice, “grandpa died peacefully and he’s in heaven now.” And he went outside. 
+One day, back in Seoul, when my brothers and I were in our blankets on the heated stone floor for the night, our dad came in, sat down, and didn’t, as usual, pray for us and sing—“*the Lord takes care of me, and I am the Lord’s precious lamb*”—until we fell asleep. Instead he sat down and said in his deep, measured voice, “grandpa died peacefully and he’s in heaven now.” And he went outside. 
 
 No one spoke. We didn’t know how to talk about these things. I was six at the time. I didn’t know that life was short and that it ends.
 
@@ -56,21 +56,7 @@ In the dark, I let out a few tears—what those tears meant I didn’t know. I o
 “Are you crying?” Jon asked. He sounded ticked off.
 
 You couldn’t be vulnerable around Jon. You had to be tough. You had to wipe your tears and go to sleep. 
-<center>&#42;</center>
-That summer in Europe was the first time we hung out together, just us two. In high school, he spent more time with his ex’s dog than with me. Before that, I played with Tim and neighborhood kids around our age, while Jon and Lance were off with the older kids. 
 
-We linked up after our summer study abroad programs in Berlin and country-hopped and ended up in Amsterdam. He found one of Amsterdam’s “coffeeshops” and we went. It was like a cigar parlor—dark, smoky, consciously masculine—but with weed and without the attractive forty-something-year-old blond female servers calling you “honey.” We pushed our way through the dank crowd to the front where a guy with tattoo sleeves leaned on the bar with both hands. Jon yelled at my face. The music and the din of the crowd covered his voice. “*I can’t hear you!*” I yelled back. “*You wanna do edibles?*” I wanted to get out of there. He picked out a joint and a brownie wrapped in plastic.
-
-The brownies didn’t work. We went outside, hungry and miserable from wasting the day, crouched on our curb of the hotel, lit up the joint and took turns taking hits. “You’re not doing it right,” he said. I couldn’t do anything right. I couldn’t take pictures (the photo I took of him in front of the Eiffel Tower didn’t show the peak, how terrible!), I couldn’t order right (forgetting our budget I got the most expensive wine at a tapas restaurant in Barcelona), and I certainly couldn’t smoke weed. “Breathe it in more. Hold it in and count to ten.”
-We climbed back up the stairs to our small room. I sat on my bunk bed and I got high and I was afraid I’d throw myself out the window. I tried to make it look like nothing was happening, but then I let out that maybe we should call the front desk. He saw that I was getting paranoid.
-
-“You’re fine,” he said. 
-
-These were his first words of care for me—ones that I heard, anyway—two words that broke the ice of two long decades.
-
-But that didn’t change the fact that I was paranoid. I grabbed my laptop, turned on Stephen Colbert (who better than he to sober you up?), and tried to focus while next me to Jon giggled away, covering his eyes with his hands. I decided I’d stick with real coffeeshops.
-
-Then we went to bed.
 <center>&#42;</center>
 In sixth grade, I tried to emulate Jon, his gait and his style. He was already a cool eighth grader with always a flock of friends. 
 
@@ -155,7 +141,7 @@ With careers, Jon is conventionally-minded, the “personality hire” of a civi
 
 A family man.
 
-The paradox is that that money now goes to funding his bluetooth-connected party lights, a coffee grinder, an espresso machine with a “cappuccino foamer”—“gotta have my coffee, big dawg!”—and his candle-lit wine nights with grapes, cheese, and crackers from Whole Foods in the 27th floor studio near Columbus Circle with a view of Billionaire’s Row and the Hudson River. First the Nikes; now this! Even dad, usually hands-off about our lives, offered his two cents: “That’s not how an immigrant should live.”
+The paradox is that that money now goes to funding his bluetooth-connected party lights, a coffee grinder, an espresso machine with a “cappuccino foamer”—“gotta have my coffee, big dawg!”—and his candle-lit wine nights with grapes, cheese, and crackers from Whole Foods in his 27th floor studio near Columbus Circle with a view of Billionaire’s Row and the Hudson River. First the Nikes; now this! Even dad, usually hands-off about our lives, offered his two cents: “That’s not how an immigrant should live.”
 
 Now, Jon wants to strike out on his own, maybe go into photography, maybe settle down in Europe, maybe come back to L.A. to “catch the vibes, you know?” I see him struggle with uncertainty and hear from him more often the words, “I don’t know.”
 <center>&#42;</center>
@@ -163,7 +149,7 @@ In the parable of the prodigal son, the more worldly of a man’s two sons deman
 
 We thought it was Lance when he declared he would pursue music instead of following mom’s plan for him of becoming a doctor. But it surprised everyone when it turned out that the brother who calls himself “just a clown!” is very likable and very hard-working—though in true L.A. fashion he is careful to hide how hard he works—and very savvy in navigating the music scene. 
 
-Tim, on the other hand, was never a contender to be the prodigal son. He knows how to spend—his recent five-hundred-dollar projector being the most recent treat—but lives well below his means as an aspiring educator. 
+Tim, on the other hand, was never a contender to be the prodigal son. He knows how to spend—his recent five-hundred-dollar projector being the most recent treat—but lives well below his means as an "aspiring educator."
 
 My adult life will now begin in earnest—“*forgetting what is behind and straining toward what is ahead*”[^3]. But my days of being the prodigal son, of leaving home for a faraway land for my own ends, of searching for worth and meaning outside the house of the Father, are, I hope, behind me.
 

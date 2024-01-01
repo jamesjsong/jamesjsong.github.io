@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[In Search of a New Year's Resolution](https://www.stim.blog/search/)
+
 [Alright, I Finished It](https://www.stim.blog/finished/)
 
 [Meetup with an Old Friend](https://www.stim.blog/meetup/)

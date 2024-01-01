@@ -60,7 +60,7 @@ You couldn’t be vulnerable around Jon. You had to be tough. You had to wipe yo
 <center>&#42;</center>
 In sixth grade, I tried to emulate Jon, his gait and his style. He was already a cool eighth grader with always a flock of friends. 
 
-I used to sneak into his closet and wear his checkered button-up and his big blue Nikes, laces untied, with which he would drag his heels as he swaggered slowly with his gang. He even sagged his skinny jeans just the cool amount with a thick red belt. All day I would drag the Nikes, sag my pants apishly low, avoid being seen by him, and get home early so I could put back the shirt and the shoes. He had a Mohawk phase where he gelled the top of his long hair up into stiff spikes down the center. Naturally, I had a Mohawk phase. Of course, he would notice and told me to get lost off and stop touching his things. Including the Moco de Gorilla Snot Gel. 
+I used to sneak into his closet and wear his checkered button-up and his big blue Nikes, laces untied, with which he would drag his heels as he swaggered slowly with his gang. He even sagged his skinny jeans just the cool amount with a thick red belt. All day I would drag the Nikes, sag my pants apishly low, avoid being seen by him, and get home early so I could put back the shirt and the shoes. He had a Mohawk phase where he gelled the top of his long hair up into stiff spikes down the center. Naturally, I had a Mohawk phase. Of course, he would notice and told me to get lost and stop touching his things. Including the Moco de Gorilla Snot Gel. 
 
 I thought he hated me. He was always trying to get Lance’s attention, but never stooped to talk to me. 
 
@@ -91,7 +91,7 @@ Jon is, in the words of a family friend pastor who is strangely otherworldly, �
 
 A few years ago, my maternal grandpa’s *han* was let loose. During a fiery tirade that followed, he told me that everything was fine with me, but that I shouldn’t *ever* think again about joining the military after graduating from “*the* school,” his term of respect for Harvard. It’s too dangerous. On the other hand, he said Jon could overcome whatever came his way. 
 
-“I remember in high school,” a friend of mine told me, Jon had this confidence.” 
+“I remember in high school,” a friend of mine told me, "Jon had this confidence.” 
 
 “Where,” Lance would ask, “does he get his confidence?”
 
@@ -135,7 +135,7 @@ Tears rolled down my cheeks through my laughter. Poor Ellen!
 
 Silence again.
 
-“You’ll be alright” he said. “Throw her some clichés,” he added with a laugh.
+“You’ll be alright,” he said. “Throw her some clichés,” he added with a laugh.
 <center>&#42;</center>
 With careers, Jon is conventionally-minded, the “personality hire” of a civil engineering firm, where he’s a member the most technical department. “Our family is not meant for STEM,” he’d say, along with a comment about how this job is not for him. “We’re more creative.” As he explains it, he liked architecture, anthropology, psychology, but Lance was pursuing music so that “if something were to happen to the family, we needed someone with a stable job.” 
 
@@ -151,15 +151,15 @@ We thought it was Lance when he declared he would pursue music instead of follow
 
 Tim, on the other hand, was never a contender to be the prodigal son. He knows how to spend—his recent five-hundred-dollar projector being the most recent treat—but lives well below his means as an "aspiring educator."
 
-My adult life will now begin in earnest—“*forgetting what is behind and straining toward what is ahead*”[^3]. But my days of being the prodigal son, of leaving home for a faraway land for my own ends, of searching for worth and meaning outside the house of the Father, are, I hope, behind me.
+My adult life will now begin in earnest—“*forgetting what is behind and straining toward what is ahead*.”[^3] But my days of being the prodigal son, of leaving home for a faraway land for my own pleasure, of searching for worth and meaning outside the house of the Father, are, I hope, behind me.
 
 That leaves Jon.
 
 Jon, the brother who seemed so certain and so confident, who is pushing thirty and who is so unsure of himself. 
 
-In the parable, the Father lets the son go and the son squanders everything. Still, the Father looks out onto the fields for any sign of the son who left Him, His eyes blind from squinting every hour, His voice hoarse from continually calling out His son’s name. The son returns to Him, and there is a joyful celebration, for the lost is found, the dead come back to life. 
+In the parable, the Father lets the son go and the son squanders everything. Still, the Father looks out onto the fields for any sign of the son who left Him, His eyes blind from squinting every hour, His voice hoarse from continually calling out the name of His precious son. The son returns to Him, and there is a celebration, full of joy, for the lost is found, the dead come back to life. 
 
-We need only let our words be few, listen to His voice, and sing, “*He will my shield and portion be as long as life endures.*”[^4]
+We need only let our words be few, return to Him, and sing, “*He will my shield and portion be as long as life endures.*”[^4]
  
 
 -

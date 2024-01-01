@@ -18,4 +18,4 @@ Written by James Song.
 
 
 
-[The Highest Good](https://www.stim.blog/highest/)
+[The Highest Good](https://www.stim.blog/highest/) --!>

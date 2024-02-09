@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Intimations: Authenticity and Newton](https://www.stim.blog/authenticity/)
+
 [Intimations: The Conservation of Ego](https://www.stim.blog/intimations/)
 
 [In Search of a New Year's Resolution](https://www.stim.blog/search/)

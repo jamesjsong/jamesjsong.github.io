@@ -8,4 +8,4 @@ categories: jekyll update
 
 Daniel LaPointe
 
-[This one is also a PDF.](/assets/dan_authenticity.pdf) 
+[This one is also a PDF.](/assets/dan_authenticity.pdf)  

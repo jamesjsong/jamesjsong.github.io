@@ -6,6 +6,10 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Document Dump - Presidents Godfather Tier List](https://www.stim.blog/tier/)
+
+[Document Dump - Introduction](https://www.stim.blog/introduction/)
+
 [Intimations: Authenticity and Newton](https://www.stim.blog/authenticity/)
 
 [Intimations: The Conservation of Ego](https://www.stim.blog/intimations/)

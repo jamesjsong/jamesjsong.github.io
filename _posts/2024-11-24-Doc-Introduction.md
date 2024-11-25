@@ -13,8 +13,13 @@ With the exception of “Presidents Godfather Tier List – Part II” and the t
 Time appears to have thawed out whatever perfectionistic impulses had kept these documents hidden. While they are by no means everything I’ve been sitting on, I’d consider them to be the most complete. Enjoy, fellas.
 
 [Document Dump - Presidents Godfather Tier List](https://www.stim.blog/tier/).
+
 [Document Dump - Presidents Godfather Tier List - Part II](https://www.stim.blog/tierii/).
+
 [Document Dump - How Does One Sort a Box of Old Photos?](https://www.stim.blog/photos/).
+
 [Document Dump - Pharmapolitics and teh Vitamin D Hypothesis](https://www.stim.blog/pharma/).
+
 [Document Dump - Learning, Populism, and Reddit](https://www.stim.blog/reddit/).
+
 [Document Dump - The Selfish Meme](https://www.stim.blog/meme/).

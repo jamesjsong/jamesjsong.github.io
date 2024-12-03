@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Document Dump – How Does One Sort a Box of Old Photos?”](https://www.stim.blog/photos/)
+
 [Document Dump - Presidents Godfather Tier List](https://www.stim.blog/tier/)
 
 [Document Dump - Introduction](https://www.stim.blog/introduction/)

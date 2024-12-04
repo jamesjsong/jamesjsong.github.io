@@ -15,7 +15,7 @@ Time appears to have thawed out whatever perfectionistic impulses had kept these
 
 [Document Dump - Presidents Godfather Tier List](https://www.stim.blog/tier/)
 
-[Document Dump - Presidents Godfather Tier List - Part II](https://www.stim.blog/tierii/)
+[Document Dump - Presidents Godfather Tier List Part II](https://www.stim.blog/tierii/)
 
 [Document Dump - How Does One Sort a Box of Old Photos?](https://www.stim.blog/photos/)
 

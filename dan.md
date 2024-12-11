@@ -6,6 +6,9 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Interruption to the Document Dump - Some Thoughts on Luigi](https://www.stim.blog/interruption/)
+
+
 [Document Dump - How Does One Sort a Box of Old Photos?](https://www.stim.blog/photos/)
 
 [Document Dump - Presidents Godfather Tier List Part II](https://www.stim.blog/tierii/)

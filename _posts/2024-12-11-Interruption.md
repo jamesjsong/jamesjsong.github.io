@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interruption to the Document Dump - Some Thoughts on Luigi."
+title:  "Interruption to the Document Dump - Some Thoughts on Luigi"
 permalink: /interruption/
 date:   2024-12-11
 categories: jekyll update

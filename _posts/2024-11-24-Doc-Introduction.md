@@ -19,7 +19,7 @@ Time appears to have thawed out whatever perfectionistic impulses had kept these
 
 [Document Dump - How Does One Sort a Box of Old Photos?](https://www.stim.blog/photos/)
 
-[Document Dump - Pharmapolitics and the Vitamin D Hypothesis](https://www.stim.blog/pharma/)
+[Document Dump - Pharmapolitics and the Vitamin D Hypothesis](https://www.stim.blog/hypothesis/)
 
 [Document Dump - Learning, Populism, and Reddit](https://www.stim.blog/reddit/)
 

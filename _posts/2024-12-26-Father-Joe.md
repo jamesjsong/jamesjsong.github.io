@@ -13,9 +13,7 @@ Thursday, Sept 12, 2024.
 Father Joe was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive.
 We sat down one night after a dinner with the secondary school teachers. There were sixteen of them. He had met them for the first time and remembered all their names. We talked for about two hours—or at least he did, and I listened—over the last of my cigarette, about two puffs, and four of his, though he smoked only till half way or so, popping the blue mint capsules and tapping them on the box before lighting them. His words[^1] are *italicized*, edited for coherence
 
-***
-
-&nbsp;
+<p style="text-align: center;">*</p>
 
 The story of how Father Joe met Jesus. 
 
@@ -39,19 +37,19 @@ T*hen I saw my life like a panorama, with all the moments when I sinned. I was i
 
 *But I also realized, through studying philosophy and theology at higher levels, that feeling was not everything. It’s much bigger than that. Mere passion means little.* 
 
-*
+<p style="text-align: center;">*</p>
 
 On Mother Theresa and the dark night of the soul, when she felt abandoned by God for the last fifty years of her life.
 
 *It is a gift from God that she was allowed to struggle with her faith. The closer we get to God, the more unbearable it will be. Look at Moses. We will burn and die if we see God.*
 
-*
+<p style="text-align: center;">*</p>
 
 Ants and God.
 
 *Look at ants. They live in two dimensions. In order to tell ants about the human world, a human will have to become an ant and tell them about the three-dimensional human world. And do you think ants will understand? Of course not. But their world is part of the human world. God is in the fourth, fifth, sixth—in the eternal dimension. We cannot understand everything.*
 
-*
+<p style="text-align: center;">*</p>
 
 Christianity in Europe and Asia.
 
@@ -65,13 +63,13 @@ Christianity in Europe and Asia.
 
 *But we cannot fully be like Jesus, and we have to admit it. Some are called to that. We have Jesuits in India and elsewhere being persecuted and dying for the faith. I lived in the villages with Khmer people for three years when I was studying Khmer. I could do that sort of thing until my mid-thirties, but then my body wouldn’t let me continue. If I continued to eat and live the way my friends did, maybe I would have died. Now, in the community house, even wanting to install AC in my room—I am humble enough to admit this. All these good facilities—this is for the purpose of service. But each person is different and must discern what they are called to do.*
 
-*
+<p style="text-align: center;">*</p>
 
 On protestants and Catholics and especially in Korea.
 
 *Koreans are not aware of how fundamentalist and marginal they are. The Americans that brought protestantism to Korea were very conservative.*
 
-*
+<p style="text-align: center;">*</p>
 
 On his life.
 
@@ -83,13 +81,13 @@ On his life.
 
 *But my mom would always whisper in my ear that I would become a priest. She had given my life up to God. I would follow her to Mass, but I didn’t really care. I even took my tithe and bought comic books! I was taught at church about hell, so in the back of my mind the idea of hell was scaring me while I read the comic books—haha! I was always uncomfortable, but that was all theory—which shows the uselessness of theory. Because the fun of the comic books was greater than the intellectual threat of hell.*
 
-*
+<p style="text-align: center;">*</p>
 
 On faith.
 
 *What is faith? Faith is belief in the miracle of loving service. Two fish and five loaves—it is a miracle that God provides people with love in their hearts to serve to bring about his kingdom. So I’m very thankful for you and for donors who make this miracle, the school, possible. Like the five thousand that was fed with the two fish and five loaves.*
 
-*
+<p style="text-align: center;">*</p>
 
 On the Cambodia mission.
 
@@ -107,7 +105,7 @@ On the Cambodia mission.
 
 *God plants seeds among the poor.*
 
-*
+<p style="text-align: center;">*</p>
 
 On Jesus.
 
@@ -117,15 +115,13 @@ On Jesus.
 
 *Ask Jesus to show you his love. He gives when you ask sincerely.* 
 
-*
+<p style="text-align: center;">*</p>
 
 His goodbye.
 
 *Today, I ended up ranting for a while. Good night.*
 
-***
-
-&nbsp;
+<p style="text-align: center;">*</p>
 
 There was more that he said: an account of the moral leadership of Catholic priests during the democratic protests in the 80s in Korea; his evaluation of Protestant missionaries’ work in Cambodia; references to the Bible, including extended quotes of Matthew 25 (all five pieces of detail) in answer to questions about Judgement Day; analyses of the Gospels, in particular of Matthew 13 and 15; explanations of various symbols, like Jesus’ washing of his disciples’ feet; the title and author of the book he read in ninth grade. But the essential details of the conversation are above. 
 

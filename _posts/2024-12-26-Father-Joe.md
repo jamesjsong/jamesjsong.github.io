@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In His Own Words"
+title:  "Taken from His Own Words"
 permalink: /words/
 date:   2024-12-26
 categories: jekyll update
@@ -11,7 +11,7 @@ James Song
 Thursday, Sept 12, 2024.
 
 Father Joe was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive.
-We sat down one night after a dinner with the secondary school teachers. There were sixteen of them. He had met them for the first time and remembered all their names. We talked for about two hours—or at least he did, and I listened—over the last of my cigarette, about two puffs, and four of his, though he smoked only till half way or so, popping the blue mint capsules and tapping them on the box before lighting them. His words[^1] are *italicized*, edited for coherence
+We sat down one night after a dinner with the secondary school teachers. There were sixteen of them. He had met them for the first time and remembered all their names. We talked for about two hours—or at least he did, and I listened—over the last of my cigarette, about two puffs, and four of his, though he smoked only till half way or so, popping the blue mint capsules and tapping them on the box before lighting them. His words[^1] are *italicized*, edited for coherence.
 
 <p style="text-align: center;">*</p>
 
@@ -21,7 +21,7 @@ The story of how Father Joe met Jesus.
 
 *There was a book at home that stood out to me. The title and the author I cannot forget. At that age, I thought science was the truth—we were learning about evolution and so on in school. But I read that book and the guy was talking about how science fits in with religion. I was young and didn’t get much of it, but I had some knowledge of this stuff in my head.*
 
-*Then there was my second older brother, who went to Seoul National University. This guy was much older and smarter than me. I respected him. He was taking Catholicism seriously and kept talking about Jesus with my mom. That got my attention.* 
+*Then there was my second older brother, who was studying at Seoul National University at the time. This guy was much older and smarter than me. I respected him. He was taking Catholicism seriously and kept talking about Jesus with my mom. That got my attention.* 
 
 *And then there was a Catholic retreat I went to. In those days, boys’ schools were separate from girls’ schools, and I was curious about girls. The retreat was a day long. There was a guy named Paul, who was so nice to me. He was introducing me to all the girls, and I was excited. Then, at night, we were standing in a circle for group prayer. The leader—he was a young lay Catholic guy—got us together and said that there was one member who was sick and that we should pray for him together. That member had a bad leg that made him limp. His name was Paul.*
 

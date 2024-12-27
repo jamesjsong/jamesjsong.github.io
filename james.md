@@ -6,7 +6,7 @@ permalink: /james/
 
 Written by James Song.
 
-[In His Own Words](https://www.stim.blog/words/)
+[Taken from His Own Words](https://www.stim.blog/words/)
 
 [Dear Sirs, I am.](https://www.stim.blog/sirs/)
 

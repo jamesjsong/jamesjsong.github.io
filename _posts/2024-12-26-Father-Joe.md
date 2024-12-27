@@ -129,8 +129,6 @@ There was more that he said: an account of the moral leadership of Catholic prie
 
 Notes:
 
-[^1]: There is no one-to-one map that can translate the full meaning of Korean sentences to English sentences, and each sentence is embedded in a web of cultural understanding which it would take living in that culture for a long time for you to fully get. And there is his alpha personality, his swagger, his poise, and, in recounting the most precious moment, his encounter with Jesus, his very soft voice. 
-
-His humor is not really captured. We laughed a lot, he more than I. All of it was said in the tone of a cool and caring senior, like that of an affectionate, experienced older brother giving relationship advice. Normally, Koreans don’t use this comfortable way of speaking until they are close with you. It may rub people the wrong way.
+[^1]: There is no one-to-one map that can translate the full meaning of Korean sentences to English sentences, and each sentence is embedded in a web of cultural understanding which it would take living in that culture for a long time for you to fully get. And there is his alpha personality, his swagger, his poise, and, in recounting the most precious moment, his encounter with Jesus, his very soft voice.  And his humor is not really captured. We laughed a lot, he more than I. All of it was said in the tone of a cool and caring senior, like that of an affectionate, experienced older brother giving relationship advice. Normally, Koreans don’t use this comfortable way of speaking until they are close with you. It may rub people the wrong way.
 
 [^2]: [1 Kings 18:22-39](https://www.biblegateway.com/passage/?search=1%20Kings%2018%3A22-39&version=NIV).

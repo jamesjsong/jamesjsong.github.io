@@ -10,12 +10,13 @@ James Song
 
 Thursday, Sept 12, 2024.
 
-Father Joe was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive.
-We sat down one night after a dinner with the secondary school teachers. There were sixteen of them. He had met them for the first time and remembered all their names. We talked for about two hours—or at least he did, and I listened—over the last of my cigarette, about two puffs, and four of his, though he smoked only till half way or so, popping the blue mint capsules and tapping them on the box before lighting them. His words[^1] are *italicized*, edited for coherence.
+Father Cho was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive.
+
+He and I sat down one night after a dinner with the secondary school teachers. There were sixteen of them. He had met them for the first time and remembered all their names. We talked for about two hours—or at least he did, and I listened—over the last of my cigarette, about two puffs, and four of his, though he smoked only till half way or so, popping the blue mint capsules and tapping them on the box before lighting them. His words[^1] are *italicized*, edited for coherence.
 
 <p style="text-align: center;">*</p>
 
-The story of how Father Joe met Jesus. 
+The story of how Father Cho met Jesus. 
 
 *Three things happened when I was in ninth grade.*
 
@@ -41,7 +42,7 @@ T*hen I saw my life like a panorama, with all the moments when I sinned. I was i
 
 On Mother Theresa and the dark night of the soul, when she felt abandoned by God for the last fifty years of her life.
 
-*It is a gift from God that she was allowed to struggle with her faith. The closer we get to God, the more unbearable it will be. Look at Moses. We will burn and die if we see God.*
+*It is a gift from God that she was allowed to struggle with her faith. The closer we get to God, the more unbearable it will be. Look at Moses.[^3] We will burn and die if we see God.*
 
 <p style="text-align: center;">*</p>
 
@@ -55,19 +56,19 @@ Christianity in Europe and Asia.
 
 *After five hundred years of Christian Europe pouring their wealth and effort on Asia, Christians in Asia made up less than three percent of the total population. We have to think deeply about why that was.* 
 
-*In Europe, what people care about is truth. Even if institutions are corrupt, people will accept the truth. In Asia, this is not the case. Jesus said he is the way, the truth, and the life. In Europe, what compels people is truth. In Asia, what matters is the way. That explains the popularity of Buddhism—there is the clear eightfold-path. The Muslims have clear practices—fasting in Ramadan, the five prayers a day, and so on. In Chinese philosophy, it is Daoism. Christians—all they do is fight each other. They’re not able to show the way.* 
+*In Europe, what people care about is truth. Even if institutions are corrupt, people will accept the truth. In Asia, this is not the case. Jesus said he is the way, the truth, and the life. In Europe, what compels people is truth. In Asia, what matters is the way. That explains the popularity of Buddhism—there is the clear eightfold-path. Muslims have clear practices—fasting in Ramadan, the five prayers a day, and so on. In Chinese philosophy, it is Daoism. Christians—all they do is fight each other. We haven't been able to show the way.* 
 
-*There is a saying in Korea: 언행일치 and 언행불일치. The first one means that what you say and what you do are consistent. The second is a way of making fun of hypocrites—those that say something and do something else.*
+*There are these two sayings in Korean: 언행일치 and 언행불일치. The first one means that what you say and what you do are consistent. The second is a way of making fun of hypocrites—those that say something and do something else.*
 
-*People around you are watching. You don’t have to say anything. They know what you believe. What we have to do is live the life of Jesus.*
+*People around you are watching. You don’t have to say anything. They know what you believe. All we have to do is live the life of Jesus.*
 
-*But we cannot fully be like Jesus, and we have to admit it. Some are called to that. We have Jesuits in India and elsewhere being persecuted and dying for the faith. I lived in the villages with Khmer people for three years when I was studying Khmer. I could do that sort of thing until my mid-thirties, but then my body wouldn’t let me continue. If I continued to eat and live the way my friends did, maybe I would have died. Now, in the community house, even wanting to install AC in my room—I am humble enough to admit this. All these good facilities—this is for the purpose of service. But each person is different and must discern what they are called to do.*
+*But we cannot fully be like Jesus, and we have to admit this. Some are called be martyrs. We have Jesuits in India and elsewhere being persecuted and dying for the faith. I lived in villages with Khmer people for three years when I was studying Khmer. I could do that sort of thing until my mid-thirties, but then my body wouldn’t let me continue. If I continued to eat and live the way my Khmer village friends did, maybe I would have died. Now, here in the community house, even wanting to install AC in my room—I am humble enough to admit this. All these good facilities—this is for the purpose of service. But each person is different and must discern what they are called to do.*
 
 <p style="text-align: center;">*</p>
 
-On protestants and Catholics and especially in Korea.
+On Korean protestants.
 
-*Koreans are not aware of how fundamentalist and marginal they are. The Americans that brought protestantism to Korea were very conservative.*
+*Korean protestants are not aware of how fundamentalist and marginal they are. The Americans that brought protestantism to Korea were very fundamentalist. The danger in religion is when people start to say, "I am right and you are wrong," even if this is the case.*
 
 <p style="text-align: center;">*</p>
 
@@ -77,7 +78,7 @@ On his life.
 
 *I was very poor, so poor that one of my older sisters died as a child from {malnutrition?}. People called my mom crazy for being pregnant with me, and even my dad was telling her to get rid of me. But Catholics believe that life is granted by God. So she kept me.*
 
-*We were so poor we were evicted from our house when I was young. I figured the thing that causes my mom the most pain is poverty. All I wanted to do was make money for my mom. I can take care of her by making a lot of money.*
+*We were so poor we were evicted from our house when I was young. I figured the thing that caused my mom the most pain was poverty. All I wanted to do was make money for my mom. I can take care of her by making a lot of money.*
 
 *But my mom would always whisper in my ear that I would become a priest. She had given my life up to God. I would follow her to Mass, but I didn’t really care. I even took my tithe and bought comic books! I was taught at church about hell, so in the back of my mind the idea of hell was scaring me while I read the comic books—haha! I was always uncomfortable, but that was all theory—which shows the uselessness of theory. Because the fun of the comic books was greater than the intellectual threat of hell.*
 
@@ -85,19 +86,19 @@ On his life.
 
 On faith.
 
-*What is faith? Faith is belief in the miracle of loving service. Two fish and five loaves—it is a miracle that God provides people with love in their hearts to serve to bring about his kingdom. So I’m very thankful for you and for donors who make this miracle, the school, possible. Like the five thousand that was fed with the two fish and five loaves.*
+*What is faith? Faith is belief in the miracle of loving service. It is a miracle that God provides people with love in their hearts to serve to bring about his kingdom. So I’m very thankful for you and for donors who make this miracle, this school, possible.*
 
 <p style="text-align: center;">*</p>
 
 On the Cambodia mission.
 
-*The Jesuits needed someone who truly understood Buddhism. So I was given this mission. That’s why I studied Buddhism in Sri Lanka and became an ordained monk. Actually, most of my friends here are monks.* 
+*The Jesuits needed someone who truly understood Buddhism. So I was given the mission of studying Buddhism in Sri Lanka and becoming an ordained monk. Actually, most of my friends here are monks.* 
 
 *For me, there were two motivations. There was curiosity, but that was on the side. Mainly, it was love. How can you show Cambodians that you love them? You must know them. So in Cambodia, you* must *understand Buddhism.*
 
-*For me, two things are important about Cambodia. The raising of influential people in all areas of society who are competent—have the head—but not just that, but nurturing people who also have conscience—the heart. Second, it is good Buddhism. I have a Ph.D., but a monk’s words are a hundred times for influential in Cambodian society. If Cambodian Buddhism is solid, Cambodian society will thrive.* 
+*For me, two things are important about Cambodia. The raising of influential people in all areas of society who are competent—have the head—but not just that: nurturing people who also have conscience—the right heart. Second, it is good Buddhism. I have a Ph.D., but a monk’s words are a hundred times more influential in Cambodian society. If Cambodian Buddhism is solid, Cambodian society will thrive.* 
 
-*After twenty-five years of supporting 130 schools—we’ve supported Cambodia by paying salaries, training teachers, building schools—we realized that we needed to build our own school and operate it ourselves. That’s why this school was built.* 
+*As for the Catholics, after twenty-five years of supporting 130 schools—we’ve supported Cambodia by paying salaries, training teachers, building schools—we realized that we needed to build our own school and operate it ourselves. That’s why this school was built.* 
 
 *Right now we’re stretched too thin. If I was here, I would have advocated for having only middle and high schools. Then maybe our impact would have been greater. I would have voiced this more strongly, but I was abroad studying…*
 
@@ -109,7 +110,7 @@ On the Cambodia mission.
 
 On Jesus.
 
-*The question is, whatever it is we do, can we do it not out of our own enjoyment of our talent or to create a persona or a public image or for anything else, but to truly love others? Jesus summed up the laws and the prophets with two commandments. Before he died, as a kind of will—wills are very important, we listen to the wills of dying people—he summed up the two commandments into one: as I have loved you, love others.*
+*The question is, whatever it is we do, can we do it not out of our own enjoyment of our talent or to create a persona or a public image or for anything else like that, but in service of love for others? Jesus summed up the laws and the prophets with two commandments[^4]. Before he died, as a kind of will—wills are very important, we listen to the wills of dying people—he condensed the two commandments into one: as I have loved you, love others.[^5]*
 
 *The foundation of our faith is the love of Jesus for us. Our foundation is not dogma or creed or proclamation.* 
 
@@ -123,7 +124,7 @@ His goodbye.
 
 <p style="text-align: center;">*</p>
 
-There was more that he said: an account of the moral leadership of Catholic priests during the democratic protests in the 80s in Korea; his evaluation of Protestant missionaries’ work in Cambodia; references to the Bible, including extended quotes of Matthew 25 (all five pieces of detail) in answer to questions about Judgement Day; analyses of the Gospels, in particular of Matthew 13 and 15; explanations of various symbols, like Jesus’ washing of his disciples’ feet; the title and author of the book he read in ninth grade. But the essential details of the conversation are above. 
+There was more that he said: an account of the moral leadership of Catholic priests during the democratic protests in the 80s in Korea; his evaluation of Protestant missionaries’ work in Cambodia; references to the Bible, including extended quotes of Matthew 25 (all five pieces of detail) in answer to questions about Judgement Day; analyses of the Gospels, in particular of Matthew 13 and 15; explanations of various symbols, like Jesus’ washing of his disciples’ feet and the symbolism behind the miracle of the five loaves and two fish; the title and author of the book he read in ninth grade. But the essential details of the conversation are above. 
 
 -
 
@@ -132,3 +133,9 @@ Notes:
 [^1]: There is no one-to-one map that can translate the full meaning of Korean sentences to English sentences, and each sentence is embedded in a web of cultural understanding which it would take living in that culture for a long time for you to fully get. And there is his alpha personality, his swagger, his poise, and, in recounting the most precious moment, his encounter with Jesus, his very soft voice.  And his humor is not really captured. We laughed a lot, he more than I. All of it was said in the tone of a cool and caring senior, like that of an affectionate, experienced older brother giving relationship advice. Normally, Koreans don’t use this comfortable way of speaking until they are close with you. It may rub people the wrong way.
 
 [^2]: [1 Kings 18:22-39](https://www.biblegateway.com/passage/?search=1%20Kings%2018%3A22-39&version=NIV).
+
+[^3]: [Exodus 33:18-20](https://www.biblegateway.com/passage/?search=Exodus%2033%3A18-20&version=EXB)
+
+[^4]: [Matthew 22:37-40](https://www.biblegateway.com/passage/?search=Matthew%2022%3A37-40&version=NIV)
+
+[^5]: [John 13:34](https://www.biblegateway.com/passage/?search=John%2013%3A34&version=NIV)

@@ -30,7 +30,7 @@ The story of how Father Cho met Jesus.
 
 *Then, like Elijah and the priests of Baal in the Bible[^2], the Holy Spirit came down like a pillar of fire. I felt my body burning. I was shaking to the core—even now I tremble when I talk about it. I had a cool head—I could think clearly—but my whole body was hot. And I saw Jesus on the cross, bleeding. He was talking to me:“Do you know why I died? I died for your sins.”*
 
-T*hen I saw my life like a panorama, with all the moments when I sinned. I was in ninth-grade—what sin could a boy have? And I prayed two things—and this is true prayer: one, that Jesus would forgive me, that I was sorry; and two, for others, that my friend would be healed and that his sickness would come upon me in his place. He listened to the first prayer, but not the second.*
+*Then I saw my life like a panorama, with all the moments when I sinned. I was in ninth-grade—what sin could a boy have? And I prayed two things—and this is true prayer: one, that Jesus would forgive me, that I was sorry; and two, for others, that my friend would be healed and that his sickness would come upon me in his place. He listened to the first prayer, but not the second.*
 
 *In my mind, this went on for five minutes. When I came to myself again, the prayer circle was gone, and three or four hours had passed. From that day on, I went to mass out of my own volition.*
 

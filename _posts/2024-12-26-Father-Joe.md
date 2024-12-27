@@ -10,7 +10,7 @@ James Song
 
 Thursday, Sept 12, 2024.
 
-Father Cho was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive.
+Father Cho was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive. He is one of a dozen or so Jesuit priests in Cambodia. He was sent from Phnom Penh, the captial, to be one of the directors of the school here in rural Cambodia. 
 
 He and I sat down one night after a dinner with the secondary school teachers. There were sixteen of them. He had met them for the first time and remembered all their names. We talked for about two hours—or at least he did, and I listened—over the last of my cigarette, about two puffs, and four of his, though he smoked only till half way or so, popping the blue mint capsules and tapping them on the box before lighting them. His words[^1] are *italicized*, edited for coherence.
 
@@ -68,7 +68,7 @@ Christianity in Europe and Asia.
 
 On Korean protestants.
 
-*Korean protestants are not aware of how fundamentalist and marginal they are. The Americans that brought protestantism to Korea were very fundamentalist. The danger in religion is when people start to say, "I am right and you are wrong," even if this is the case.*
+*Conservative Korean protestants are not aware of how fundamentalist and marginal they are. The Americans that brought protestantism to Korea were fundamentalist. The danger in inter-religious dialogue is when people start to say, "you are wrong," even if this is true.*
 
 <p style="text-align: center;">*</p>
 

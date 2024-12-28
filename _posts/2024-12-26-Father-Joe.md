@@ -10,7 +10,7 @@ James Song
 
 Thursday, Sept 12, 2024.
 
-Father Cho was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive. He is one of a dozen or so Jesuit priests in Cambodia. He was sent from Phnom Penh, the captial, to be one of the directors of the school here in rural Cambodia. 
+Father Cho was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive. He is one of a dozen or so Jesuit priests in Cambodia. He was sent from Phnom Penh, the capital, to be one of the directors of the school here in the rural area. 
 
 He and I sat down one night after a dinner with the secondary school teachers. There were sixteen of them. He had met them for the first time and remembered all their names. We talked for about two hours—or at least he did, and I listened—over the last of my cigarette, about two puffs, and four of his, though he smoked only till half way or so, popping the blue mint capsules and tapping them on the box before lighting them. His words[^1] are *italicized*, edited for coherence.
 
@@ -32,11 +32,11 @@ The story of how Father Cho met Jesus.
 
 *Then I saw my life like a panorama, with all the moments when I sinned. I was in ninth-grade—what sin could a boy have? And I prayed two things—and this is true prayer: one, that Jesus would forgive me, that I was sorry; and two, for others, that my friend would be healed and that his sickness would come upon me in his place. He listened to the first prayer, but not the second.*
 
-*In my mind, this went on for five minutes. When I came to myself again, the prayer circle was gone, and three or four hours had passed. From that day on, I went to mass out of my own volition.*
+*In my mind, this went on for five minutes. When I came to myself again, the prayer circle was gone, and three or four hours had passed. From that day on, I went to Mass out of my own volition.*
 
-*After that, like I was telling you yesterday, I proclaimed the Gospel to everyone like a Protestant—just naturally—with the fire that was in me. When I answered, the words that came out of my mouth made my friends cry. And we went to Mass together.  A third of my ninth-grade classmates became Catholic. One is now a parish priest in Gangnam. He always jokes that I’m the reason he’s stuck as a priest. He’s been supporting Cambodia a lot.* 
+*After that, like I was telling you yesterday, I proclaimed the Gospel to everyone with the passion of a Protestant—just naturally—with the fire that was in me. My friends would ask me questions about God, and the words that came out of my mouth in reply made them cry. And we went to Mass together.  A third of my ninth-grade classmates became Catholic. One is now a parish priest in Gangnam. He always jokes that I’m the reason he’s stuck as a priest. To this day, he supports the Cambodia Mission.*
 
-*But I also realized, through studying philosophy and theology at higher levels, that feeling was not everything. It’s much bigger than that. Mere passion means little.* 
+*But I also realized, through studying philosophy and theology at higher levels, that feeling was not everything. It’s much bigger than that. Passion alone means little.* 
 
 <p style="text-align: center;">*</p>
 
@@ -56,7 +56,7 @@ Christianity in Europe and Asia.
 
 *After five hundred years of Christian Europe pouring their wealth and effort on Asia, Christians in Asia made up less than three percent of the total population. We have to think deeply about why that was.* 
 
-*In Europe, what people care about is truth. Even if institutions are corrupt, people will accept the truth. In Asia, this is not the case. Jesus said he is the way, the truth, and the life. In Europe, what compels people is truth. In Asia, what matters is the way. That explains the popularity of Buddhism—there is the clear eightfold-path. Muslims have clear practices—fasting in Ramadan, the five prayers a day, and so on. In Chinese philosophy, it is Daoism. Christians—all they do is fight each other. We haven't been able to show the way.* 
+*In Europe, what people care about is truth. Even if institutions are corrupt, people will accept the truth. In Asia, this is not the case. Jesus said he is the way, the truth, and the life. In Europe, what compels people is truth. In Asia, what matters is the way. That explains the popularity of Buddhism—there is the clear eightfold-path. Muslims have clear practices—fasting in Ramadan, the five prayers a day, and so on. In Chinese philosophy, it is Daoism. Christians—all we do is fight each other. We haven't been able to show the way.* 
 
 *There are these two sayings in Korean: 언행일치 and 언행불일치. The first one means that what you say and what you do are consistent. The second is a way of making fun of hypocrites—those that say something and do something else.*
 
@@ -66,9 +66,9 @@ Christianity in Europe and Asia.
 
 <p style="text-align: center;">*</p>
 
-On Korean protestants.
+On Korean Protestants.
 
-*Conservative Korean protestants are not aware of how fundamentalist and marginal they are. The Americans that brought protestantism to Korea were fundamentalist. The danger in inter-religious dialogue is when people start to say, "you are wrong," even if this is true.*
+*Conservative Korean Protestants are not aware of how fundamentalist and marginal they are. The Americans that brought Protestantism to Korea were fundamentalist. The danger in inter-religious dialogue is when people start to say, "you are wrong," even if this is true. Fundamentalists are sure they know everything. This is very dangerous.*
 
 <p style="text-align: center;">*</p>
 
@@ -90,7 +90,7 @@ On faith.
 
 <p style="text-align: center;">*</p>
 
-On the Cambodia mission.
+On the Cambodia Mission.
 
 *The Jesuits needed someone who truly understood Buddhism. So I was given the mission of studying Buddhism in Sri Lanka and becoming an ordained monk. Actually, most of my friends here are monks.* 
 
@@ -102,7 +102,7 @@ On the Cambodia mission.
 
 *Right now we’re stretched too thin. If I was here, I would have advocated for having only middle and high schools. Then maybe our impact would have been greater. I would have voiced this more strongly, but I was abroad studying…*
 
-*And nurturing leaders means teaching English, which is why your task is so important.*
+*Nurturing leaders means teaching them English, which is why your task is so important.*
 
 *God plants seeds among the poor.*
 
@@ -110,7 +110,7 @@ On the Cambodia mission.
 
 On Jesus.
 
-*The question is, whatever it is we do, can we do it not out of our own enjoyment of our talent or to create a persona or a public image or for anything else like that, but in service of love for others? Jesus summed up the laws and the prophets with two commandments[^4]. Before he died, as a kind of will—wills are very important, we listen to the wills of dying people—he condensed the two commandments into one: as I have loved you, love others.[^5]*
+*The question is, whatever it is we do, can we do it not out of our own enjoyment of our talent or to create a persona or a public image or for anything else like that, but in service of love for others? Jesus summed up all the laws and the prophets with two commandments[^4]—love God and love others. Before he died, as a kind of will—wills are very important, we listen to the wills of dying people—he condensed the two commandments into one: as I have loved you, love others.[^5]*
 
 *The foundation of our faith is the love of Jesus for us. Our foundation is not dogma or creed or proclamation.* 
 
@@ -124,7 +124,7 @@ His goodbye.
 
 <p style="text-align: center;">*</p>
 
-There was more that he said: an account of the moral leadership of Catholic priests during the democratic protests in the 80s in Korea; his evaluation of Protestant missionaries’ work in Cambodia; references to the Bible, including extended quotes of Matthew 25 (all five pieces of detail) in answer to questions about Judgement Day; analyses of the Gospels, in particular of Matthew 13 and 15; explanations of various symbols, like Jesus’ washing of his disciples’ feet and the symbolism behind the miracle of the five loaves and two fish; the title and author of the book he read in ninth grade. But the essential details of the conversation are above. 
+There was more that he said: an account of the moral leadership of Catholic priests during the democratic protests in the 80s in Korea; his evaluation of Protestant missionaries’ work in Cambodia; references to the Bible, including extended quotes of Matthew 25 (all five pieces of detail) in talking about Judgement Day; analyses of the Gospels, in particular of Matthew 13 and 15; explanations of various symbols, like Jesus’ washing of his disciples’ feet and the symbolism behind the miracle of the five loaves and two fish; the title and author of the book he read in ninth grade. But the essential details of the conversation are above. 
 
 -
 

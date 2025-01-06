@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Document Dump – Learning, Populism, and Reddit](https://www.stim.blog/reddit/)
+
 [Document Dump – Pharmapolitics and the Vitamin D Hypothesis](https://www.stim.blog/hypothesis/)
 
 [Interruption to the Document Dump - Some Thoughts on Luigi](https://www.stim.blog/interruption/)

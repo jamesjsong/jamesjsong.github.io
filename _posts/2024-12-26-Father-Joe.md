@@ -10,7 +10,7 @@ James Song
 
 Thursday, Sept 12, 2024.
 
-Father Cho was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive. He is one of a dozen or so Jesuit priests in Cambodia. He was sent from Phnom Penh, the capital, to be one of the directors of the school here in the rural area. 
+Father Cho, a Jesuit priest, was new to the school I’m volunteering at, though not new to Cambodia—he’s been here longer than I’ve been alive. He is one of a dozen or so Jesuit priests in Cambodia. He was sent from Phnom Penh, the capital, to be one of the directors of the school here in the rural area. 
 
 He and I sat down one night after a dinner with the secondary school teachers. There were sixteen of them. He had met them for the first time and remembered all their names. We talked for about two hours—or at least he did, and I listened—over the last of my cigarette, about two puffs, and four of his, though he smoked only till half way or so, popping the blue mint capsules and tapping them on the box before lighting them. His words[^1] are *italicized*, edited for coherence.
 
@@ -28,7 +28,7 @@ The story of how Father Cho met Jesus.
 
 *At this point I prayed a prayer. I prayed many times before during Mass—I used to follow my mom there—but it was the first time in my life that I truly prayed. I prayed that Paul’s pain would be given to me instead—the selfish me that was so into meeting girls that I didn’t even notice Paul’s bad leg.*
 
-*Then, like Elijah and the priests of Baal in the Bible[^2], the Holy Spirit came down like a pillar of fire. I felt my body burning. I was shaking to the core—even now I tremble when I talk about it. I had a cool head—I could think clearly—but my whole body was hot. And I saw Jesus on the cross, bleeding. He was talking to me:“Do you know why I died? I died for your sins.”*
+*Then, like Elijah and the priests of Baal in the Bible[^2], the Holy Spirit came down like a pillar of fire. I felt my body burning. I was shaking to the core—even now I tremble when I talk about it. I had a cool head—I could think clearly—but my whole body was hot. And I saw Jesus on the cross, bleeding. He was talking to me: “Do you know why I died? I died for your sins.”*
 
 *Then I saw my life like a panorama, with all the moments when I sinned. I was in ninth-grade—what sin could a boy have? And I prayed two things—and this is true prayer: one, that Jesus would forgive me, that I was sorry; and two, for others, that my friend would be healed and that his sickness would come upon me in his place. He listened to the first prayer, but not the second.*
 
@@ -56,13 +56,13 @@ Christianity in Europe and Asia.
 
 *After five hundred years of Christian Europe pouring their wealth and effort on Asia, Christians in Asia made up less than three percent of the total population. We have to think deeply about why that was.* 
 
-*In Europe, what people care about is truth. Even if institutions are corrupt, people will accept the truth. In Asia, this is not the case. Jesus said he is the way, the truth, and the life. In Europe, what compels people is truth. In Asia, what matters is the way. That explains the popularity of Buddhism—there is the clear eightfold-path. Muslims have clear practices—fasting in Ramadan, the five prayers a day, and so on. In Chinese philosophy, it is Daoism. Christians—all we do is fight each other. We haven't been able to show the way.* 
+*In Europe, what people care about is truth. Even if institutions are corrupt, people will accept the truth. In Asia, this is not the case. Jesus said he is the way, the truth, and the life. In Europe, what compels people is truth. In Asia, what matters is the way. That explains the popularity of Buddhism—there is the clear eightfold-path. Muslims have clear practices—fasting in Ramadan, the five prayers a day, and so on. In Chinese philosophy, there is Confucianism and Daoism--clear directions on how to live. Christians—all we do is fight each other. We haven't been able to show the way.* 
 
 *There are these two sayings in Korean: 언행일치 and 언행불일치. The first one means that what you say and what you do are consistent. The second is a way of making fun of hypocrites—those that say something and do something else.*
 
-*People around you are watching. You don’t have to say anything. They know what you believe. All we have to do is live the life of Jesus.*
+*People around you are watching. You don’t have to say anything. They know what you believe. All we have to do is embody the spirit of Jesus.*
 
-*But we cannot fully be like Jesus, and we have to admit this. Some are called be martyrs. We have Jesuits in India and elsewhere being persecuted and dying for the faith. I lived in villages with Khmer people for three years when I was studying Khmer. I could do that sort of thing until my mid-thirties, but then my body wouldn’t let me continue. If I continued to eat and live the way my Khmer village friends did, maybe I would have died. Now, here in the community house, even wanting to install AC in my room—I am humble enough to admit this. All these good facilities—this is for the purpose of service. But each person is different and must discern what they are called to do.*
+*But we cannot fully be like Jesus, and we have to admit this. Some are called to be martyrs. We have Jesuits in India and elsewhere being persecuted and dying for the faith. I lived in villages with Khmer people for three years when I was studying Khmer. I could do that sort of thing until my mid-thirties, but then my body wouldn’t let me continue. If I continued to eat and live the way my Khmer village friends did, maybe I would have died. Now, here in the community house, even wanting to install AC in my room—I am humble enough to admit this. All these good facilities—this is for the purpose of service. But each person is different and must discern what they are called to do.*
 
 <p style="text-align: center;">*</p>
 
@@ -100,7 +100,7 @@ On the Cambodia Mission.
 
 *As for the Catholics, after twenty-five years of supporting 130 schools—we’ve supported Cambodia by paying salaries, training teachers, building schools—we realized that we needed to build our own school and operate it ourselves. That’s why this school was built.* 
 
-*Right now we’re stretched too thin. If I was here, I would have advocated for having only middle and high schools. Then maybe our impact would have been greater. I would have voiced this more strongly, but I was abroad studying…*
+*Right now we’re stretched too thin. If I were here, I would have advocated for having only the middle and high schools. Then maybe our impact would have been greater. I would have voiced this more strongly, but I was abroad studying…*
 
 *Nurturing leaders means teaching them English, which is why your task is so important.*
 

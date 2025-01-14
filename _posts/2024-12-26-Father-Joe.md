@@ -28,15 +28,15 @@ The story of how Father Cho met Jesus.
 
 *At this point I prayed a prayer. I prayed many times before during Mass—I used to follow my mom there—but it was the first time in my life that I truly prayed. I prayed that Paul’s pain would be given to me instead—the selfish me that was so into meeting girls that I didn’t even notice Paul’s bad leg.*
 
-*Then, like Elijah and the priests of Baal in the Bible[^2], the Holy Spirit came down like a pillar of fire. I felt my body burning. I was shaking to the core—even now I tremble when I talk about it. I had a cool head—I could think clearly—but my whole body was hot. And I saw Jesus on the cross, bleeding. He was talking to me: “Do you know why I died? I died for your sins.”*
+*Then, like Elijah and the priests of Baal in the Bible[^2], the Holy Spirit came down like a pillar of fire. I felt my body burning. I was shaking to the core—even now I tremble when I talk about it. I had a cool head—I could think clearly—but my whole body was hot. And I saw Jesus on the cross, bleeding. He was talking to me: “Do you see why I died? I died for your sins.”*
 
-*Then I saw my life like a panorama, with all the moments when I sinned. I was in ninth-grade—what sin could a boy have? And I prayed two things—and this is true prayer: one, that Jesus would forgive me, that I was sorry; and two, for others, that my friend would be healed and that his sickness would come upon me in his place. He listened to the first prayer, but not the second.*
+*Then I saw my life like a panorama, with all the moments where I sinned. I was in ninth-grade—what sin could a boy have? And I prayed two things—and this is true prayer: one, that Jesus would forgive me, that I was sorry; and two, for others, that my friend would be healed and that his sickness would come upon me in his place. He listened to the first prayer, but not the second.*
 
 *In my mind, this went on for five minutes. When I came to myself again, the prayer circle was gone, and three or four hours had passed. From that day on, I went to Mass out of my own volition.*
 
-*After that, like I was telling you yesterday, I proclaimed the Gospel to everyone with the passion of a Protestant—just naturally—with the fire that was in me. My friends would ask me questions about God, and the words that came out of my mouth in reply made them cry. And we went to Mass together.  A third of my ninth-grade classmates became Catholic. One is now a parish priest in Gangnam. He always jokes that I’m the reason he’s stuck as a priest. To this day, he supports the Cambodia Mission.*
+*After that, like I was telling you yesterday, I proclaimed the Gospel to everyone with the passion of a Protestant—just naturally—with the fire that was in me. My friends would ask me questions about God, and the words that came out of my mouth in reply made them cry. And we went to Mass together.  A third of my ninth-grade classmates became Catholic. One is now a parish priest in Gangnam. He always jokes that I’m the reason he’s stuck as a priest. To this day he supports the Cambodia Mission.*
 
-*But I also realized, through studying philosophy and theology at higher levels, that feeling was not everything. It’s much bigger than that. Passion alone means little.* 
+*But I also realized, through studying philosophy and theology at higher levels, that feeling is not everything. It’s much bigger than that. Passion alone means little.* 
 
 <p style="text-align: center;">*</p>
 
@@ -48,7 +48,7 @@ On Mother Theresa and the dark night of the soul, when she felt abandoned by God
 
 Ants and God.
 
-*Look at ants. They live in two dimensions. In order to tell ants about the human world, a human will have to become an ant and tell them about the three-dimensional human world. And do you think ants will understand? Of course not. But their world is part of the human world. God is in the fourth, fifth, sixth—in the eternal dimension. We cannot understand everything.*
+*Look at ants. They live in two dimensions. In order to tell ants about the human world, a human will have to become an ant and tell them about the three-dimensional human world. And do you think ants will understand? Of course not. But their world is part of the human world. God is in the fourth, fifth, sixth—the eternal dimension. We cannot understand everything.*
 
 <p style="text-align: center;">*</p>
 
@@ -56,7 +56,7 @@ Christianity in Europe and Asia.
 
 *After five hundred years of Christian Europe pouring their wealth and effort on Asia, Christians in Asia made up less than three percent of the total population. We have to think deeply about why that was.* 
 
-*In Europe, what people care about is truth. Even if institutions are corrupt, people will accept the truth. In Asia, this is not the case. Jesus said he is the way, the truth, and the life. In Europe, what compels people is truth. In Asia, what matters is the way. That explains the popularity of Buddhism—there is the clear eightfold-path. Muslims have clear practices—fasting in Ramadan, the five prayers a day, and so on. In Chinese philosophy, there is Confucianism and Daoism--clear directions on how to live. Christians—all we do is fight each other. We haven't been able to show the way.* 
+*In Europe, what people care about is Truth. Even if institutions are corrupt, people will accept the Truth. In Asia, this is not the case. Jesus said he is the Way, the Truth, and the Life. In Europe, what compels people is Truth. In Asia, what matters is the Way. That explains the popularity of Buddhism—there is the clear eightfold-path. Muslims have clear practices—fasting in Ramadan, the five prayers a day, and so on. In Chinese philosophy, there is Confucianism and Daoism--clear directions on how to live. Christians—all we do is fight each other. We haven't been able to show the Way.* 
 
 *There are these two sayings in Korean: 언행일치 and 언행불일치. The first one means that what you say and what you do are consistent. The second is a way of making fun of hypocrites—those that say something and do something else.*
 
@@ -68,7 +68,7 @@ Christianity in Europe and Asia.
 
 On Korean Protestants.
 
-*Conservative Korean Protestants are not aware of how fundamentalist and marginal they are. The Americans that brought Protestantism to Korea were fundamentalist. The danger in inter-religious dialogue is when people start to say, "you are wrong," even if this is true. Fundamentalists are sure they know everything. This is very dangerous.*
+*Conservative Korean Protestants are not aware of how fundamentalist and marginal they are. The Americans that brought Protestantism to Korea were fundamentalist. The danger in inter-religious dialogue is when people start to say, "I am right and you are wrong." Fundamentalists are sure they know everything. This is very dangerous.*
 
 <p style="text-align: center;">*</p>
 
@@ -76,25 +76,25 @@ On his life.
 
 *I was not supposed to be born.*
 
-*I was very poor, so poor that one of my older sisters died as a child from {malnutrition?}. People called my mom crazy for being pregnant with me, and even my dad was telling her to get rid of me. But Catholics believe that life is granted by God. So she kept me.*
+*I was very poor, so poor that one of my older sisters died as a child from malnutrition. People called my mom crazy for being pregnant with me, and even my dad was telling her to get rid of me. But Catholics believe that life is granted by God. So she kept me.*
 
 *We were so poor we were evicted from our house when I was young. I figured the thing that caused my mom the most pain was poverty. All I wanted to do was make money for my mom. I can take care of her by making a lot of money.*
 
-*But my mom would always whisper in my ear that I would become a priest. She had given my life up to God. I would follow her to Mass, but I didn’t really care. I even took my tithe and bought comic books! I was taught at church about hell, so in the back of my mind the idea of hell was scaring me while I read the comic books—haha! I was always uncomfortable, but that was all theory—which shows the uselessness of theory. Because the fun of the comic books was greater than the intellectual threat of hell.*
+*But my mom would always whisper in my ear that I would become a priest. She had given my life up to God. I would follow her to Mass, but I didn’t really care. I even took my tithe and bought comic books! I was taught at church about hell, so in the back of my mind the idea of hell was scaring me while I read the comic books—haha! I was always uncomfortable, but that was all theory—which shows the uselessness of theory. Because the enjoyment I got from the comic books was greater than the intellectual threat of hell.*
 
 <p style="text-align: center;">*</p>
 
 On faith.
 
-*What is faith? Faith is belief in the miracle of loving service. It is a miracle that God provides people with love in their hearts to serve to bring about his kingdom. So I’m very thankful for you and for donors who make this miracle, this school, possible.*
+*What is faith? Faith is belief in the miracle of loving service. It is a miracle that God provides people with love in their hearts to serve to bring about his kingdom. So I’m very thankful for you and for donors who make this school possible.*
 
 <p style="text-align: center;">*</p>
 
 On the Cambodia Mission.
 
-*The Jesuits needed someone who truly understood Buddhism. So I was given the mission of studying Buddhism in Sri Lanka and becoming an ordained monk. Actually, most of my friends here are monks.* 
+*The Jesuits needed someone who truly understood Buddhism. So I was given the mission of studying Buddhism in Sri Lanka and became an ordained Buddhist monk. Actually, most of my friends in Cambodia are monks.* 
 
-*For me, there were two motivations. There was curiosity, but that was on the side. Mainly, it was love. How can you show Cambodians that you love them? You must know them. So in Cambodia, you* must *understand Buddhism.*
+*For me, there were two motivations. There was intellectual curiosity, but that was secondary. Mainly, it was love. How can you show Cambodians that you love them? You must know them. So in Cambodia, you* must *understand Buddhism.*
 
 *For me, two things are important about Cambodia. The raising of influential people in all areas of society who are competent—have the head—but not just that: nurturing people who also have conscience—the right heart. Second, it is good Buddhism. I have a Ph.D., but a monk’s words are a hundred times more influential in Cambodian society. If Cambodian Buddhism is solid, Cambodian society will thrive.* 
 
@@ -102,7 +102,7 @@ On the Cambodia Mission.
 
 *Right now we’re stretched too thin. If I were here, I would have advocated for having only the middle and high schools. Then maybe our impact would have been greater. I would have voiced this more strongly, but I was abroad studying…*
 
-*Nurturing leaders means teaching them English, which is why your task is so important.*
+*Nurturing leaders means teaching them English, which is why your mission is so important.*
 
 *God plants seeds among the poor.*
 
@@ -124,7 +124,7 @@ His goodbye.
 
 <p style="text-align: center;">*</p>
 
-There was more that he said: an account of the moral leadership of Catholic priests during the democratic protests in the 80s in Korea; his evaluation of Protestant missionaries’ work in Cambodia; references to the Bible, including extended quotes of Matthew 25 (all five pieces of detail) in talking about Judgement Day; analyses of the Gospels, in particular of Matthew 13 and 15; explanations of various symbols, like Jesus’ washing of his disciples’ feet and the symbolism behind the miracle of the five loaves and two fish; the title and author of the book he read in ninth grade. But the essential details of the conversation are above. 
+There was more that he said: an account of the moral leadership of Catholic priests during the democratic protests in the 80s in Korea; his evaluation of Protestant missionaries’ work in Cambodia; references to the Bible, including extended quotes of Matthew 25 (all five pieces of detail) in talking about Judgement Day; analyses of the Gospels, in particular of Matthew 13 and 15; explanations of various symbols, like Jesus’ washing of his disciples’ feet and the symbolism behind the miracle of the five loaves and two fish; the title and author of the book he read in ninth grade; anecdotes that showed ways that God reveals himself to us. But the essential details of the conversation are above. 
 
 -
 

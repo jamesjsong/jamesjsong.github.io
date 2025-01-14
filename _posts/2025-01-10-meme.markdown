@@ -33,8 +33,9 @@ Notes:
 
 [^1]: Title from *The Selfish Gene* by Richard Dawkins, the book in which the word “meme” was first coined. I have not read this book.
 
-[^2]: Picture: [pic](/assets/dan_zuck.jpeg)
+[^2]: Picture [here](https://www.stim.blog/assets/dan_zuck.jpeg).
+
 
 [^3]: “…its sculptor well those passions read <br>Which yet survive, stamped on these lifeless things, <br>The hand that mocked them, and the heart that fed”
 
-[^4]: Here: [https://www.reddit.com/r/me_irl/comments/unclxa/me_irl/i88vnwc/?context=3](https://www.reddit.com/r/me_irl/comments/unclxa/me_irl/i88vnwc/?context=3)
+[^4]: Link: [https://www.reddit.com/r/me_irl/comments/unclxa/me_irl/i88vnwc/?context=3](https://www.reddit.com/r/me_irl/comments/unclxa/me_irl/i88vnwc/?context=3)

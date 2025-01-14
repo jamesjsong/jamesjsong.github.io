@@ -2,7 +2,7 @@
 layout: post
 title:  "Document Dump - The Selfish Meme"
 permalink: /meme/
-date:   2025-01-10
+date:   2025-01-14
 categories: jekyll update
 ---
 
@@ -33,12 +33,8 @@ Notes:
 
 [^1]: Title from *The Selfish Gene* by Richard Dawkins, the book in which the word “meme” was first coined. I have not read this book.
 
-[^2]: 
-![](/assets/dan_zuck.jpeg)
+[^2]: <br> ![](/assets/dan_zuck.jpeg)
 
-[^3]:	“…its sculptor well those passions read 
-Which yet survive, stamped on these lifeless things, 
-The hand that mocked them, and the heart that fed”
+[^3]: “…its sculptor well those passions read <br>Which yet survive, stamped on these lifeless things, <br>The hand that mocked them, and the heart that fed”
 
-[^4]:
-https://www.reddit.com/r/me_irl/comments/unclxa/me_irl/i88vnwc/?context=3
+[^4]: <br> https://www.reddit.com/r/me_irl/comments/unclxa/me_irl/i88vnwc/?context=3

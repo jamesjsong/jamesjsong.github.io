@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[After Eating Some Christmas Chocolate](https://www.stim.blog/chocolate/)
+
 [Document Dump – Learning, Populism, and Reddit](https://www.stim.blog/reddit/)
 
 [Document Dump – Pharmapolitics and the Vitamin D Hypothesis](https://www.stim.blog/hypothesis/)

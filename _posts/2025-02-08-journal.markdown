@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Journal Session with Low Vitamin D: In Which the Generally Stoic Narrator Is Harassed by Footnotes"
+permalink: /journal/
+date:   2025-02-08
+categories: jekyll update
+---
+
+Daniel LaPointe
+
+Did not take the Vitamin D supplement today or the multivitamin. Though I *did* go for a two-mile walk outside earlier, this was rather close to sunset. Given that it’s the dead of winter and given that I haven’t eaten any foods containing Vitamin D recently (to my knowledge), I’m likely pretty damn low in the stuff right now. Some observations:
+
+* When looking at my phone’s lock screen photo[^1], I[^2] immediately began to think of the depicted mountain range as a 3D object, if that makes sense. That is, I immediately intuited that the image was facing south and that the mountain on the left side of the image depicted the east-most part of the range. My brain (God I hate using that phrase, but it feels appropriate here) then superimposed over the mountains the trail that I followed when hiking them. At various points of interest along the trail – these visible in the image – I involuntarily recalled what the views were like from those points. There was something immensely satisfying about this all playing out so efficiently – in the span of less than a second. Though I’ve long had difficulty locating the right permutation of words to communicate this sensation, the [Random Walks] (link) essay gets at it with: “I just want to… imagine where I am in relation to everything else.”
+
+Notes:
+
+[^1]: hello, footnote testing[^a].
+
+[^2]: second[^b] ftnt.
+
+[^a]: # hello.
+
+[^b]: # so. 

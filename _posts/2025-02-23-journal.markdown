@@ -6,7 +6,7 @@ date:   2025-02-23
 categories: jekyll update
 ---
 
-*Editor’s Note: The author wanted to include the following instruction to readers: “Make sure they go through the entire piece first, then go back a second time for the footnotes.“*
+*Editor’s Note: The author wanted to include the following instruction to readers: “Make sure they go through the entire piece first, then go back a second time for the footnotes.“ This piece was received via email a little past midnight Cambodia time referring to events that took place on 1/12/2025 in Upstate New York.*
 
 Daniel LaPointe
 
@@ -24,7 +24,7 @@ Did not take the Vitamin D supplement today or the multivitamin. Though I *did* 
 * Quite naturally, I had taken to reading the “Freshman Year Rambles.”<sup><a href="#fn1111" id="fn11">11</a></sup> These are the most interesting and character-revealing things I wrote back then – “free writes” banged out at 3:00 AM in Lamont meant to “warm up my cognitive machinery” but which in reality served as procrastination apparatuses. Ramble #15, which I’ll drop in its entirety, epitomizes the genre. Enjoy the whining.
 * Like the author of that piece,<sup><a href="#fn1212" id="fn12">12</a></sup> I’ve got to get some sleep.
 
-[Read this after the footnotes.](/assets/dan_ramble15.pdf)
+[Read this after the footnotes.](/assets/dan_ramble.pdf)
 
 ---
 

@@ -24,7 +24,7 @@ Did not take the Vitamin D supplement today or the multivitamin. Though I *did* 
 * Quite naturally, I had taken to reading the “Freshman Year Rambles.”<sup><a href="#fn1111" id="fn11">11</a></sup> These are the most interesting and character-revealing things I wrote back then – “free writes” banged out at 3:00 AM in Lamont meant to “warm up my cognitive machinery” but which in reality served as procrastination apparatuses. Ramble #15, which I’ll drop in its entirety, epitomizes the genre. Enjoy the whining.
 * Like the author of that piece,<sup><a href="#fn1212" id="fn12">12</a></sup> I’ve got to get some sleep.
 
-
+[Read this after the footnotes.](/assets/dan_ramble15.pdf)
 
 ---
 
@@ -34,14 +34,17 @@ Notes
 <div id="fn11">
   <a href="#fn1">1.</a> 
   <img src="/assets/dan_phone.jpg" alt="Phone image" style="width: 150px; height: auto;">
+    <br><br>
 </div>
 
 <div id="fn22">
   <a href="#fn2">2.</a> Though I do recall having free-associated into existence a memory tonight that made me think “holy crap, I haven’t thought about that in forever,” I cannot, at this moment, recall what that memory was. The little rascal seems to have gotten away, perhaps not to be fished up again for another thirty years.
+    <br><br>
 </div>
 
 <div id="fn33">
   <a href="#fn3">3.</a> Did I just…<i>express gratitude?</i> When the hell has that ever happened in one of these?
+   <br><br>
 </div>
 
 <div id="fn44">
@@ -155,7 +158,7 @@ D: [<i>UNLOADS</i>]
 </div>
 
 <div id="fn1111">
-  <a href="#fn11">11.</a> One of these was quoted in “<a href="https://www.stim.blog/random/">Random Walks</a>.”
+  <a href="#fn11">11.</a> One of these was quoted in “Random Walks.”
   <br><br>
 </div>
 

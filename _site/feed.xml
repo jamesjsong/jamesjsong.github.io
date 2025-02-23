@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-23T10:14:21+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Stim: a blog</title><subtitle>an essay a day keeps the therapist away</subtitle><entry><title type="html">Journal Session with Low Vitamin D: In Which the Generally Stoic Narrator Is Harassed by Footnotes</title><link href="http://localhost:4000/journal/" rel="alternate" type="text/html" title="Journal Session with Low Vitamin D: In Which the Generally Stoic Narrator Is Harassed by Footnotes" /><published>2025-02-23T00:00:00+07:00</published><updated>2025-02-23T00:00:00+07:00</updated><id>http://localhost:4000/journal</id><content type="html" xml:base="http://localhost:4000/journal/"><![CDATA[<p><em>Editor’s Note: The author wanted to include the following instruction to readers: “Make sure they go through the entire piece first, then go back a second time for the footnotes.“</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-23T10:25:56+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Stim: a blog</title><subtitle>an essay a day keeps the therapist away</subtitle><entry><title type="html">Journal Session with Low Vitamin D: In Which the Generally Stoic Narrator Is Harassed by Footnotes</title><link href="http://localhost:4000/journal/" rel="alternate" type="text/html" title="Journal Session with Low Vitamin D: In Which the Generally Stoic Narrator Is Harassed by Footnotes" /><published>2025-02-23T00:00:00+07:00</published><updated>2025-02-23T00:00:00+07:00</updated><id>http://localhost:4000/journal</id><content type="html" xml:base="http://localhost:4000/journal/"><![CDATA[<p><em>Editor’s Note: The author wanted to include the following instruction to readers: “Make sure they go through the entire piece first, then go back a second time for the footnotes.“</em></p>
 
 <p>Daniel LaPointe</p>
 
@@ -18,6 +18,8 @@
   <li>Like the author of that piece,<sup><a href="#fn1212" id="fn12">12</a></sup> I’ve got to get some sleep.</li>
 </ul>
 
+<p><a href="/assets/dan_ramble15.pdf">Read this after the footnotes.</a></p>
+
 <hr />
 
 <p>Notes</p>
@@ -26,14 +28,17 @@
 <div id="fn11">
   <a href="#fn1">1.</a> 
   <img src="/assets/dan_phone.jpg" alt="Phone image" style="width: 150px; height: auto;" />
+    <br /><br />
 </div>
 
 <div id="fn22">
   <a href="#fn2">2.</a> Though I do recall having free-associated into existence a memory tonight that made me think “holy crap, I haven’t thought about that in forever,” I cannot, at this moment, recall what that memory was. The little rascal seems to have gotten away, perhaps not to be fished up again for another thirty years.
+    <br /><br />
 </div>
 
 <div id="fn33">
   <a href="#fn3">3.</a> Did I just…<i>express gratitude?</i> When the hell has that ever happened in one of these?
+   <br /><br />
 </div>
 
 <div id="fn44">
@@ -147,7 +152,7 @@ D: [<i>UNLOADS</i>]
 </div>
 
 <div id="fn1111">
-  <a href="#fn11">11.</a> One of these was quoted in “<a href="https://www.stim.blog/random/">Random Walks</a>.”
+  <a href="#fn11">11.</a> One of these was quoted in “Random Walks.”
   <br /><br />
 </div>
 

@@ -6,7 +6,11 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Journal Session with Low Vitamin D: In Which the Generally Stoic Narrator Is Harassed by Footnotes](https://www.stim.blog/journal/)
+
 [After Eating Some Christmas Chocolate](https://www.stim.blog/chocolate/)
+
+[Document Dump – The Selfish Meme](https://www.stim.blog/meme/)
 
 [Document Dump – Learning, Populism, and Reddit](https://www.stim.blog/reddit/)
 

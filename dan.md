@@ -22,9 +22,9 @@ Written by Daniel LaPointe.
 
 <!-- [Document Dump - Presidents Godfather Tier List Part II](https://www.stim.blog/tierii/) -->
 
-[Document Dump - Presidents Godfather Tier List](https://www.stim.blog/tier/)
+<!-- [Document Dump - Presidents Godfather Tier List](https://www.stim.blog/tier/) -->
 
-[Document Dump - Introduction](https://www.stim.blog/introduction/)
+<!-- [Document Dump - Introduction](https://www.stim.blog/introduction/) -->
 
 [Intimations: Authenticity and Newton](https://www.stim.blog/authenticity/)
 

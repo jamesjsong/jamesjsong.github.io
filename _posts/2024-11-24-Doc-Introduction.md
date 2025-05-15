@@ -8,7 +8,7 @@ categories: jekyll update
 
 Daniel LaPointe
 
-With the exception of “Presidents Godfather Tier List – Part II” and the tail-end of “Learning, Populism, and Reddit,” the following six submissions of mine were written quite some time ago and were recently recovered from a laptop that had crashed. Special thanks to Zach from Eyemax Computer Geeks for helping me get the documents back. That $200 went a long way.
+With the exception of the tail-end of “Learning, Populism, and Reddit,” the following five submissions of mine were written quite some time ago and were recently recovered from a laptop that had crashed. Special thanks to Zach from Eyemax Computer Geeks for helping me get the documents back. That $200 went a long way.
 
 Time appears to have thawed out whatever perfectionistic impulses had kept these documents hidden. While they are by no means everything I’ve been sitting on, I’d consider them to be the most complete. Enjoy, fellas.
 

@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Raw Text; 3:00 AM](https://www.stim.blog/raw/)
+
 [When Gen Z finally set its coveted gaze tapirward...](https://www.stim.blog/genz/)
 
 [Journal Session with Low Vitamin D: In Which the Generally Stoic Narrator Is Harassed by Footnotes](https://www.stim.blog/journal/)

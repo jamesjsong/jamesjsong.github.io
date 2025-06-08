@@ -76,6 +76,6 @@ Notes:
 
 [^3]: For Bulkington, the land is dangerous in that it provides enticing comforts that undermine the stoicism required to endure the whaling ship. For Alyosha, the land is everything. He kisses it after his dream, and a stone comes to symbolize his deep bond with Ilusha's classmates.
 
-[^4]: In my more manic and speculative moments, I try to bring the concept of (adeles)[https://en.wikipedia.org/wiki/Adele_ring] from math into the political divide. Here, the liberals get the standard Archimedean metric (with their concept of continuity and piecemeal progress) and the MAGAs get the *p*-adics (with their ability to consistently beat the odds and land on strategically correct answers [i.e., perpetuate their own power] in a manner that is incomprehensible to folks operating under the normal way of doing things). But even I will admit this is getting a little schizophrenic.
+[^4]: In my more manic and speculative moments, I try to bring the concept of [adeles](https://en.wikipedia.org/wiki/Adele_ring) from math into the political divide. Here, the liberals get the standard Archimedean metric (with their concept of continuity and piecemeal progress) and the MAGAs get the *p*-adics (with their ability to consistently beat the odds and land on strategically correct answers [i.e., perpetuate their own power] in a manner that is incomprehensible to folks operating under the normal way of doing things). But even I will admit this is getting a little schizophrenic.
 
 [^5]: The day referenced here is Saturday, May 24, 2025.

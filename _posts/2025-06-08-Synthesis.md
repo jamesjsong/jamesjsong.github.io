@@ -39,7 +39,7 @@ I should also note that *Moby Dick* comes up from time to time. It gets shoutout
 
 I have also discussed *The Brothers Karamazov* in my posts (significantly more than *Moby Dick*, which gets only passing references). While roping an entire novel like that into a dichotomy with *Moby Dick* is a bit of a stretch given the large variety of characters, I am reminded of the prosecutor Kirillovitch's description of Alyosha:
 
-"He seems to me to have betrayed unconsciously that timid despair which leads so many in our unhappy society, who dread cynicism and its corrupting influences and mistakenly attribute all trouble to European enlightenment, to return to their 'native soil,' to the bosom, so to speak, of their mother earth. Like frightened children, they yearn to fall asleep on the withered bosom of their decrepit mother; to sleep there forever in order to escape the horrors that terrify them."[^2]
+    > "He seems to me to have betrayed unconsciously that timid despair which leads so many in our unhappy society, who dread cynicism and its corrupting influences and mistakenly attribute all trouble to European enlightenment, to return to their 'native soil,' to the bosom, so to speak, of their mother earth. Like frightened children, they yearn to fall asleep on the withered bosom of their decrepit mother; to sleep there forever in order to escape the horrors that terrify them."[^2]
 
 For those familiar with *Moby Dick*'s Chapter 23, "The Lee Shore," Alyosha is characterized by Kirillovitch as a sort of anti-Bulkington.[^3] That is, he gets the yin side of the divide.
 
@@ -64,6 +64,7 @@ So, food for thought.
 **Influences Disclaimer**[^5]: This piece was finalized under the influence of a fair degree of milk chocolate (the entire bar, bringing me up to more than 100% DV of saturated fat...), but no other source of caffeine. Sleep was roughly nine hours in a pitch-black room made that way by some damn-good new blackout curtains. I took a Vitamin D supplement with my first meal (lunch...) and went for a three-mile walk in overcast weather starting at around 4:00 PM. There was no intense exercise today. If I had to guess, I would say my testosterone was on the lower side. I haven't seriously worked my muscles in over a week.
 
 Last night and this morning, I read a decent chunk of the most recent edition of *The Atlantic*, picked up in physical form at the bookstore. Throughout this reading, I fancied myself one of the "coastal elites" the magazine is aimed at. Also, while driving around this past week, the CD playing in my car (it's an old vehicle...) has been the Beatles album *Revolver*. Reading *The Atlantic* and listening to this album are highly unconventional for me. In fact, I kinda get the feeling I've been cosplaying as a stereotypical New England liberal the past few days. Blue jeans, blue shirt, blue coat, blue everything - and a sudden, strange desire to drive to Vermont.
+
 ---
 
 

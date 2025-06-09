@@ -38,9 +38,9 @@ As a general matter, my submissions have often danced around the concept of plac
 I should also note that *Moby Dick* comes up from time to time. It gets shoutouts in "Random Walks," "Meetup with an Old Friend," and "Presidents Godfather Tier List." Moreover, "When Gen Z finally set its coveted gaze tapirward..." is rather *Moby Dick*-ish, with its playful language and its usage of an animal as a springboard for a philosophical discussion. Now, as *Moby Dick* puts a large emphasis on masculinity, whiteness, and universality, I would say it embodies the yang side of the divide I've been putting forward.[^1]
 
 I have also discussed *The Brothers Karamazov* in my posts (significantly more than *Moby Dick*, which gets only passing references). While roping an entire novel like that into a dichotomy with *Moby Dick* is a bit of a stretch given the large variety of characters, I am reminded of the prosecutor Kirillovitch's description of Alyosha:
-    >  
-    > "He seems to me to have betrayed unconsciously that timid despair which leads so many in our unhappy society, who dread cynicism and its corrupting influences and mistakenly attribute all trouble to European enlightenment, to return to their 'native soil,' to the bosom, so to speak, of their mother earth. Like frightened children, they yearn to fall asleep on the withered bosom of their decrepit mother; to sleep there forever in order to escape the horrors that terrify them."[^2]
-    
+  
+"He seems to me to have betrayed unconsciously that timid despair which leads so many in our unhappy society, who dread cynicism and its corrupting influences and mistakenly attribute all trouble to European enlightenment, to return to their 'native soil,' to the bosom, so to speak, of their mother earth. Like frightened children, they yearn to fall asleep on the withered bosom of their decrepit mother; to sleep there forever in order to escape the horrors that terrify them."[^2]
+
 For those familiar with *Moby Dick*'s Chapter 23, "The Lee Shore," Alyosha is characterized by Kirillovitch as a sort of anti-Bulkington.[^3] That is, he gets the yin side of the divide.
 
 Now, whether there's actually anything of merit going on here or whether I'm just forcing very, very different dichotomies to assimilate into two very, very broad camps remains to be seen. It would require someone else to say, "yeah, I think you might actually have a point."[^4]

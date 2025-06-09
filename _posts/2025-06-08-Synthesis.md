@@ -60,11 +60,11 @@ So, food for thought.
 <br>
 <br>
 
-
+---
 **Influences Disclaimer**[^5]: This piece was finalized under the influence of a fair degree of milk chocolate (the entire bar, bringing me up to more than 100% DV of saturated fat...), but no other source of caffeine. Sleep was roughly nine hours in a pitch-black room made that way by some damn-good new blackout curtains. I took a Vitamin D supplement with my first meal (lunch...) and went for a three-mile walk in overcast weather starting at around 4:00 PM. There was no intense exercise today. If I had to guess, I would say my testosterone was on the lower side. I haven't seriously worked my muscles in over a week.
 
 Last night and this morning, I read a decent chunk of the most recent edition of *The Atlantic*, picked up in physical form at the bookstore. Throughout this reading, I fancied myself one of the "coastal elites" the magazine is aimed at. Also, while driving around this past week, the CD playing in my car (it's an old vehicle...) has been the Beatles album *Revolver*. Reading *The Atlantic* and listening to this album are highly unconventional for me. In fact, I kinda get the feeling I've been cosplaying as a stereotypical New England liberal the past few days. Blue jeans, blue shirt, blue coat, blue everything - and a sudden, strange desire to drive to Vermont.
-
+---
 
 
 Notes:

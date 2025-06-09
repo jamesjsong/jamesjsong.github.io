@@ -24,6 +24,7 @@ As a general matter, my submissions have often danced around the concept of plac
 * The opening clause of "Ode to a Sheltered Zoomer" bemoans the fact that social media has "compactified" the world and induced a trend of rampant comparison that makes everything feel smaller than it really is.
 
 * "This Was Not Written by AI," other handwritten posts, and the skeuomorphic redacted journal entries call attention to formatting, not just the form-independent message of a piece. Note that "Random Walks" also gets at this sort of thing with the line "the key is to stop viewing objects as referents to non-sensory thoughts."
+
 * "Meetup with an Old Friend" gets at the polar opposite of this. Instead of the “visual appeal” of the text of *The Brothers Karamazov* distracting me from reading the book (as it had in "Random Walks"), I put the book down early, having (in my mind) confidently located the "lumpy, Platonic mass" Dostoyevsky was pointing to. 
 
 * "How Does One Sort a Box of Old Photos?" synthesizes these two urges with the concept of yin and yang. That is, the embracing of place and the urge to drown oneself in detail is associated with femininity and increased activation of the hippocampus. The embracing of universality and the urge to collapse away detail via the process of generalization is associated with masculinity and reduced activation of the hippocampus.
@@ -52,13 +53,15 @@ Also, those living in the urban environments (who are far more likely to be libe
 
 So, food for thought. 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-
-
-
-
-Influences Disclaimer[^5]: This piece was finalized under the influence of a fair degree of milk chocolate (the entire bar, bringing me up to more than 100% DV of saturated fat...), but no other source of caffeine. Sleep was roughly nine hours in a pitch-black room made that way by some damn-good new blackout curtains. I took a Vitamin D supplement with my first meal (lunch...) and went for a three-mile walk in overcast weather starting at around 4:00 PM. There was no intense exercise today. If I had to guess, I would say my testosterone was on the lower side. I haven't seriously worked my muscles in over a week.
+**Influences Disclaimer**[^5]: This piece was finalized under the influence of a fair degree of milk chocolate (the entire bar, bringing me up to more than 100% DV of saturated fat...), but no other source of caffeine. Sleep was roughly nine hours in a pitch-black room made that way by some damn-good new blackout curtains. I took a Vitamin D supplement with my first meal (lunch...) and went for a three-mile walk in overcast weather starting at around 4:00 PM. There was no intense exercise today. If I had to guess, I would say my testosterone was on the lower side. I haven't seriously worked my muscles in over a week.
 
 Last night and this morning, I read a decent chunk of the most recent edition of *The Atlantic*, picked up in physical form at the bookstore. Throughout this reading, I fancied myself one of the "coastal elites" the magazine is aimed at. Also, while driving around this past week, the CD playing in my car (it's an old vehicle...) has been the Beatles album *Revolver*. Reading *The Atlantic* and listening to this album are highly unconventional for me. In fact, I kinda get the feeling I've been cosplaying as a stereotypical New England liberal the past few days. Blue jeans, blue shirt, blue coat, blue everything - and a sudden, strange desire to drive to Vermont.
 
@@ -67,10 +70,10 @@ Last night and this morning, I read a decent chunk of the most recent edition of
 Notes:
 
 [^1]: Though I didn't notice this until well after writing "Ode to a Sheltered Zoomer," the gist of that piece's opening clause bears a striking resemblance to a passage from *Moby Dick*. Like the narrator of "Ode to a Sheltered Zoomer," Ishmael bemoans the smallness of the world, literally complaining that it is a compact manifold rather than an infinite plane. See the following passage from Chapter 52, “The Albatross”:
-
-"Round the world! There is much in that sound to inspire proud feelings; but whereto does all that circumnavigation conduct? Only through numberless perils to the very point whence we started, where those that we left behind secure, were all the time before us.
-
-“Were this world an endless plain, and by sailing eastward we could for ever reach new distances, and discover sights more sweet and strange than any Cyclades or Islands of King Solomon, then there were promise in the voyage. But in pursuit of those far mysteries we dream of, or in tormented chase of that demon phantom that, some time or other, swims before all human hearts; while chasing such over this round globe, they either lead us on in barren mazes or midway leave us whelmed."
+    > 
+    > "Round the world! There is much in that sound to inspire proud feelings; but whereto does all that circumnavigation conduct? Only through numberless perils to the very point whence we started, where those that we left behind secure, were all the time before us.
+    > 
+    > “Were this world an endless plain, and by sailing eastward we could for ever reach new distances, and discover sights more sweet and strange than any Cyclades or Islands of King Solomon, then there were promise in the voyage. But in pursuit of those far mysteries we dream of, or in tormented chase of that demon phantom that, some time or other, swims before all human hearts; while chasing such over this round globe, they either lead us on in barren mazes or midway leave us whelmed."
 
 [^2]: This is from the Constance Garnett translation.
 

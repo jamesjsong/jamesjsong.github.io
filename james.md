@@ -10,7 +10,7 @@ Written by James Song.
 
 [Dear Sirs, I am.](https://www.stim.blog/sirs/)
 
-[Scenes from a Brotherhood](https://www.stim.blog/brotherhood/)
+<!-- [Scenes from a Brotherhood](https://www.stim.blog/brotherhood/) -->
 
 [On Romans 5:8](https://www.stim.blog/romans/)
 

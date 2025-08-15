@@ -26,7 +26,7 @@ So the song is about a guy who goes for a walk with a significant other.[^1] He 
 
 To see what led to my random walks, it helps to go back to the source. Thankfully, I still have some old journal entries from back then. The only explicit reference to a walk comes on April 24th of 2017. We have the following:
 
-“Right now, I would very much like to go for a walk around Cambridge. I just want to take in the surroundings, think about how the streets interconnect, and imagine where I am in relation to everything else. I want to get an intuitive sense of the area. I’m sick of sitting around and thinking all day. I need to move. I need stimulation of a new sort. Laying in my bed and thinking all day is making me insane. I need to get my blood flowing.”
+“Right now, I would very much like to go for a walk around Cambridge. I just want to take in the surroundings, think about how the streets interconnect, and imagine where I am in relation to everything else. I want to get an intuitive sense of the area. I’m sick of sitting around and thinking all day. I need to move. I need stimulation of a new sort. Lying in my bed and thinking all day is making me insane. I need to get my blood flowing.”
 
 ![](/assets/dan_river.jpeg)
 *Taken by Daniel LaPointe, April 22, 2017*

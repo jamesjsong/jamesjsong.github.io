@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 
-Samuel Popuolo
+Samuel Puopolo
 
 The following selections are from what are commonly called the “Saga poems.” The idea had been that these lyric poems (called *englynion* in Welsh) were part of long stories with the action told in prose sections, but that the prose has been lost to us so that only the poems are left. This story does not strike me as especially feasible, but the lyric poems are certainly part of stories whose full contents have not survived. I suppose my doubt is that there were ever formalized prose sections -- more likely if any context was needed, a performer just gave context. The poems are rather like e.g. Ovid’s Heroides. In this first selection, Old Llywarch laments that he has become old -- he had at one time many sons (some say 24) all of whom died in battle at his urging.
 

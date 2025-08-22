@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Children of the Hyper-Documented](https://www.stim.blog/children/)
+
 [Attempting a Synthesis](https://www.stim.blog/synthesis/)
 
 [Raw Text; 3:00 AM](https://www.stim.blog/raw/)

@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[Pride and Childlore: A Dialogue on the Preceding](https://www.stim.blog/dialogue/)
+
 [Children of the Hyper-Documented](https://www.stim.blog/children/)
 
 [Attempting a Synthesis](https://www.stim.blog/synthesis/)

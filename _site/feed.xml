@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-22T16:36:44+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Stim: a blog</title><subtitle>an essay a day keeps the therapist away</subtitle><entry><title type="html">Children of the Hyper-Documented</title><link href="http://localhost:4000/children/" rel="alternate" type="text/html" title="Children of the Hyper-Documented" /><published>2025-08-22T00:00:00+07:00</published><updated>2025-08-22T00:00:00+07:00</updated><id>http://localhost:4000/Children</id><content type="html" xml:base="http://localhost:4000/children/"><![CDATA[<p>Daniel LaPointe</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-14T17:05:38+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Stim: a blog</title><subtitle>an essay a day keeps the therapist away</subtitle><entry><title type="html">Pride and Childlore: A Dialogue on the Preceding</title><link href="http://localhost:4000/dialogue/" rel="alternate" type="text/html" title="Pride and Childlore: A Dialogue on the Preceding" /><published>2025-09-14T00:00:00+07:00</published><updated>2025-09-14T00:00:00+07:00</updated><id>http://localhost:4000/pride</id><content type="html" xml:base="http://localhost:4000/dialogue/"><![CDATA[<p>Daniel LaPointe</p>
+
+<p><a href="/assets/dan_pride.pdf">The dialogue.</a></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Daniel LaPointe The dialogue.]]></summary></entry><entry><title type="html">Children of the Hyper-Documented</title><link href="http://localhost:4000/children/" rel="alternate" type="text/html" title="Children of the Hyper-Documented" /><published>2025-08-22T00:00:00+07:00</published><updated>2025-08-22T00:00:00+07:00</updated><id>http://localhost:4000/Children</id><content type="html" xml:base="http://localhost:4000/children/"><![CDATA[<p>Daniel LaPointe</p>
 
 <p><em>[Author’s Note: Like “Journal Session With Low Vitamin D: In Which…”, this piece has footnotes that take some time to navigate, especially if one watches all of the linked videos. Though the reader is of course free to do as they choose, my recommendation is to: do a sweep through the main piece; then read the first six footnotes and associated sub-footnotes (i.e., the footnotes for the main piece), watching the videos as they come up; then read the “Note on Influences” in tandem with those footnotes in the usual way (i.e., reading each footnote the moment it is first encountered rather than waiting).]</em></p>
 
@@ -26,8 +28,6 @@
   </li>
   <li>
     <p>Let the audience pick out the patterns.
-<br /><br />
-<br /><br />
 <br /><br />
 <br /><br />
 <br /><br /></p>
@@ -111,7 +111,7 @@ In past bouts of journalling (not (yet) posted here), I’ve identified this vib
 <!-- this is for four level: 3.a.i.A -->
 <div id="fnA3" style="margin-left: 60px;">
   <a href="#fnA3">A.</a> 
-Other things popping into my head that feel more tenuously connected but still kinda reek of that period include: the Daft Punk album Random Access Memories; <a href="https://m.youtube.com/watch?v=8j741TUIET0">this song</a>; the Malcom Butler interception; and the Fitbit IPO and the release of the Apple Watch both being in 2015.
+Other things popping into my head that feel more tenuously connected but still kinda reek of that period include: the Daft Punk album <em>Random Access Memories</em>; <a href="https://m.youtube.com/watch?v=8j741TUIET0">this song</a>; the Malcom Butler interception; and the Fitbit IPO and the release of the Apple Watch both being in 2015.
 <br /><br />
 </div>
 
@@ -768,10 +768,4 @@ D: [<i>UNLOADS</i>]
       <p><a href="https://www.biblegateway.com/passage/?search=John%2013%3A34&amp;version=NIV">John 13:34</a> <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[James Song]]></summary></entry><entry><title type="html">Document Dump – Pharmapolitics and the Vitamin D Hypothesis</title><link href="http://localhost:4000/hypothesis/" rel="alternate" type="text/html" title="Document Dump – Pharmapolitics and the Vitamin D Hypothesis" /><published>2024-12-24T00:00:00+07:00</published><updated>2024-12-24T00:00:00+07:00</updated><id>http://localhost:4000/Hypothesis</id><content type="html" xml:base="http://localhost:4000/hypothesis/"><![CDATA[<p>Daniel LaPointe</p>
-
-<p>Unlike those two “Intimations” submissions from earlier in the year <a href="https://www.stim.blog/intimations/">here</a> and <a href="https://www.stim.blog/authenticity/">here</a>, this one actually builds to a concrete, falsifiable hypothesis. Left unsaid is the context of my job. As a call center agent working for a welfare program, I found that my implicit judgment of callers would vary with whether I had taken a Vitamin D supplement in the morning.</p>
-
-<p>Note that the following scan is of a verbatim re-write of what I had initially penned on 7/16/2023; the original is littered with scribbles and is close to illegible.</p>
-
-<p><a href="/assets/dan_hypothesis.pdf">Pharmapolitics and the Vitamin D Hypothesis</a></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Daniel LaPointe]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[James Song]]></summary></entry></feed>

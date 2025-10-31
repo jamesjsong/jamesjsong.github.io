@@ -6,6 +6,8 @@ permalink: /james/
 
 Written by James Song.
 
+[Two Stories of Discernment](https://www.stim.blog/discernment/)
+
 [Taken from His Own Words](https://www.stim.blog/words/)
 
 [Dear Sirs, I am.](https://www.stim.blog/sirs/)

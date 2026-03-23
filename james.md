@@ -6,6 +6,8 @@ permalink: /james/
 
 Written by James Song.
 
+[November Passing](https://www.stim.blog/november/)
+
 [Two Stories of Discernment](https://www.stim.blog/discernment/)
 
 [Taken from His Own Words](https://www.stim.blog/words/)

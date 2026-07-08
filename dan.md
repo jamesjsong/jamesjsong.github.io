@@ -6,6 +6,8 @@ permalink: /daniel/
 
 Written by Daniel LaPointe.
 
+[America 250 and Decision Fatigue](https://www.stim.blog/decision/)
+
 [Pride and Childlore: A Dialogue on the Preceding](https://www.stim.blog/dialogue/)
 
 [Children of the Hyper-Documented](https://www.stim.blog/children/)
